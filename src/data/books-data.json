@@ -1,0 +1,2222 @@
+{
+  "books": [
+    {
+      "bookNumber": 1,
+      "title": "Natural Law",
+      "preface": "Welcome to the first book of the Freedom Garden series! This series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. Natural Law is the set of principles that guide the world. The sun rises each morning, rivers flow downhill, and seeds grow into plants when they’re cared for with patience.\n\nA long time ago, the Founding Fathers of the United States called these rules “the Laws of Nature and of Nature’s God.” They believed that following these rules would help people live together in a fair and good way.\n\nCome along with Ande, Sam, and their Freedom Garden friends to discover how following nature’s steady rhythm helps everything grow strong and bright!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Through morning mist and golden glow\nThe garden gate swung wide and slow.\nFlowers swayed and branches played, \nNature’s rules were on parade.",
+          "imagePlaceholder": "/illustrations/book1/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Ande ran through drops of dew, \nHer brother Sam came running too. \n“Grandma, Grandma, where are you?\nIt’s planting day—we’ve work to do!”",
+          "imagePlaceholder": "/illustrations/book1/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Grandma smiled with gentle cheer,\nAs butterflies came floating near.\n“The garden shows us every day,\nThat nature works in it's own way.\nThe world is held by laws so fine,\nA grand design, a law divine.”",
+          "imagePlaceholder": "/illustrations/book1/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Ande cried, “I want these seedlings fast!\nSam clapped and said, Right now would do.\n“They poured on food and cheered with glee,\n“Grow now, grow now—immediately!”",
+          "imagePlaceholder": "/illustrations/book1/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "But soon the stems bent low and weak,\nTheir leaves turned brown, their roots grew meek.\n“Oh why?” cried Ande, full of doubt.\nSam shook his head, “We wore them out.”",
+          "imagePlaceholder": "/illustrations/book1/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Then Terra Turtle shuffled near,\nAnd spoke in tones both calm and clear:\n“Dear children, nature has its say,\nIts laws don’t bend, they show the way.\nNot chains that bind, but gifts to keep,\nThey help the roots grow strong and deep.”",
+          "imagePlaceholder": "/illustrations/book1/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "“See how the sunflower lifts its face,\nAnd turns with sunlight’s steady pace.\nIt doesn’t rush, it doesn’t fight,\nIt grows by day and rests by night.\nThe rules of nature guide each day,\nAnd help all living things to stay.”",
+          "imagePlaceholder": "/illustrations/book1/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Scout the Rabbit hopped in sight, \n“My legs are made for leaps so light.\nI cannot fly, I cannot swim\nThe rules are set not just a whim. Like gravity that pulls us all,\nThese laws are firm, both great and small.”",
+          "imagePlaceholder": "/illustrations/book1/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Buzz the Bee buzzed by the tree,\n“Our hive has roles for you and me.\nEach bee must dance, each bee must try,\nWe follow patterns, and here is why:\nThey’re not restrictions, but the tools that let us thrive by nature’s rules.”",
+          "imagePlaceholder": "/illustrations/book1/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Flora fluttered, wings so bright,\n“Each bloom will open in its light.\nMorning dew and evening glow,\nTell us when it’s time to grow. \nThe garden thrives when laws are true, \nAnd so can every one of you.”",
+          "imagePlaceholder": "/illustrations/book1/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Ande gasped with widening eyes, As wisdom slowly did arise.\nSam nodded, finally understood: That rushing never does much good.\nLike rivers flowing to the sea,\nThe laws of life set people free.",
+          "imagePlaceholder": "/illustrations/book1/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "With gentle hands, they tried once more,\nPlanting seeds once more.\nSam gave each seed its space\nAnde poured water, slow with grace.\nNo magic tricks, no hurried pace.\nThey followed nature’s law with faith.",
+          "imagePlaceholder": "/illustrations/book1/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Day by day, the garden grew,\nBright with blossoms, strong and true.\nEach plant stood tall, each flower sang,\nThe garden bloomed where patience rang.\nBy trusting rules both firm and kind,\nThey found the strength that laws designed.",
+          "imagePlaceholder": "/illustrations/book1/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "“I see now, Grandma,” Ande smiled,\nHer steps more steady, less so wild.\nSam said with pride, “I’ve learned today,\nThat patience is the better way.\nLike gardens growing slow and strong,\nThese natural laws right all wrongs.”",
+          "imagePlaceholder": "/illustrations/book1/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "The sun went down, the stars did gleam,\nThe garden glowed with gentle dreams.\n“Nature’s rules,” they sang in song, \n“Will guide us true our whole lives long.\nA gift to keep, both firm and free,\nThe laws that shape eternity.”",
+          "imagePlaceholder": "/illustrations/book1/page15.png"
+        }
+      ],
+      "activity": "Garden Rules Hunt! Go outside with family. \nFind three things that follow nature’s laws: \na leaf that falls, \na bird that flies, \nor a stone that sinks. \nShare what you found.",
+      "epilogue": "This story introduces natural law the first of 28 principles featured in Liberty’s Principles Pals and inspired by Dr. W. Cleon Skousen’s The 5,000 Year Leap. This list of principles is a modern synthesis of ideas that historical evidence shows influenced America’s founding—not a direct framework written into the Constitution.\n\nThomas Jefferson referred to “the Laws of Nature and of Nature’s God” in the Declaration of Independence. Earlier thinkers like Aristotle, Cicero, and biblical authors also pointed to enduring truths that guide both nature and human life. These ideas laid the foundation for the belief that rights are universal and inherent—not granted by rulers, but woven into the order of creation itself.\n\nAs you reflect with your child, consider questions such as:\n\nWhat natural rules do you see in your daily life that never change?\n\nHow might those steady rules help families and communities live fairly together?\n\nBy anchoring big ideas in simple experiences, children can begin to understand that freedom rests not on wishes or power, but on timeless laws as old as life itself."
+    },
+    {
+      "bookNumber": 2,
+      "title": "The Light of Virtue",
+      "preface": "Welcome to the second book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called virtue.\n\nVirtue means choosing what is good, even when it isn’t easy. Just like a garden needs clean water and sunshine to stay healthy, people need virtues to keep their hearts strong and their choices true.\n\nLong ago, wise leaders taught that freedom cannot last unless people are virtuous. Without honesty, patience, kindness, and courage, freedom begins to fade. But when people practice virtue every day, freedom blossoms—just like flowers in the summer sun.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how growing virtue in their lives makes their garden, and their world, shine bright!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Morning Light, Warmth, Garden Air.\nSomething odd was in the air.\n“The lamp,” said Flora, “turned to dim.\nWithout its glow, the world feels grim.”",
+          "imagePlaceholder": "/illustrations/book2/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Grandma came with steady grace.\n“This lamp lights more than just this place. \nIt shines when virtues lead the way.\nIts light is shaped by what we say.”",
+          "imagePlaceholder": "/illustrations/book2/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“What’s virtue?” Ande asked with care.\n“It’s telling truth. It’s choosing fair.\n It’s courage when the skies turn gray.\nIt’s helping friends along the way.”",
+          "imagePlaceholder": "/illustrations/book2/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "“Then let’s restore it,” Ande said. \n“We’ll gather good, just like we read.”\n“Our daily deeds can set it right.\nLet’s fill this lamp with living light.”",
+          "imagePlaceholder": "/illustrations/book2/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "They searched for courage by the stream,\nWhere sun made dancing lines that gleam.\nWith Terra’s help and Sam’s strong hand,\nBrave steps brought Ande safe to land.",
+          "imagePlaceholder": "/illustrations/book2/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "They found a vine all curled and tight.\n“Show kindness. Help it reach the light.”\nWith water, care, and gentle touch,\nThe leaves grew strong. That meant so much.",
+          "imagePlaceholder": "/illustrations/book2/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "“Now honesty,” said Buzz with cheer.\n“Let’s wipe the glass so truth reads clear.”\nThey cleaned until the shade was gone.\nThe lamp winked back and flickered on.",
+          "imagePlaceholder": "/illustrations/book2/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "The glow grew warm yet missed its spark.\nLet’s help a friend still stuck in dark.\nLook for a need and follow through.\nDo what you’d wish folks did for you.",
+          "imagePlaceholder": "/illustrations/book2/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "A frightened flutter stirred the leaves.\nA bird was snared in prickly sleeves.\nAnde and Sam unhooked each thorn.\nThe lamp glowed bright as hope was born.",
+          "imagePlaceholder": "/illustrations/book2/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The lamp burst forth in golden glow.\nThe streams ran bright. New blossoms grow.\n“Look up!” cried Flora, spinning high.\nWarm sunlight filled the garden sky.",
+          "imagePlaceholder": "/illustrations/book2/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Ask first before your choice goes through,\n“Would I like this if done to you?”\nThat simple check keeps hearts aligned,\nIt turns good thoughts to actions kind.",
+          "imagePlaceholder": "/illustrations/book2/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Grandma spoke soft, “You’ve learned today:\nLet virtue guide your heart and way.\nTreat others as you want from them The Golden Rule is life’s bright gem.”",
+          "imagePlaceholder": "/illustrations/book2/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "In Ande’s journal, neat and small,\nShe wrote the truths to share with all:\n“Be brave. Be kind. Tell what is true.\nGive help you’d want folks give to you.”",
+          "imagePlaceholder": "/illustrations/book2/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The garden hummed in light and peace.\nRespect and teamwork never cease.\nWe listen, share, and take our turn.\nThat’s how our brightest lanterns burn.",
+          "imagePlaceholder": "/illustrations/book2/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Together strong, we choose what’s right.\nTreat others well. Keep virtue bright.\nOur garden shines in all we do.\nThe virtue begins with you.",
+          "imagePlaceholder": "/illustrations/book2/page15.png"
+        }
+      ],
+      "activity": "Find the Virtues! Search the picture for: Courage (glowing path across stones), Kindness (tended flower with watering can), Honesty (polished mirror near the lamp), Selflessness (freed bird in flight). Bonus: Circle the words “Treat others as you want to be treated.”",
+      "epilogue": "This story introduces virtue the second of 28 principles featured in Liberty’s Principles Pals and inspired by Dr. W. Cleon Skousen’s The 5,000 Year Leap. This list of principles is a modern synthesis of ideas that historical evidence shows influenced America’s founding—not a direct framework written into the Constitution.\n\nJohn Adams wrote, “Our Constitution was made only for a moral and religious People. It is wholly inadequate to the government of any other.”\n\nVirtue means practicing honesty, kindness, courage, and self-control—even when it’s hard. Just as gardens wither without sunlight and water, freedom fades without virtue. Communities grow strong when people treat one another with fairness and respect.\n\nAs you reflect with your child, consider questions such as:\n\nWhat virtues do you see in your family, friends, or community?\n\nHow do small acts of kindness and honesty help everyone feel safe and free?\n\nWhat happens to trust when people stop choosing what is right?\n\nBy connecting virtue to everyday choices, children can see that freedom survives only when people choose what is good. Virtue is the sunlight of liberty—without it, freedom cannot flourish."
+    },
+    {
+      "bookNumber": 3,
+      "title": "The Reflection of Virtue",
+      "preface": "\"Welcome to the third book of the Freedom Garden series!\\n\"\n\"This series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\\n\"\n\"A principle is a rule that explains how things work. One of those principles is called Virtuous Leaders.\\n\"\n\"Virtuous Leaders means that good leaders show honesty, kindness, and service, helping everyone succeed rather than seeking power for themselves.\\n\"\n\"Just like a garden needs sunlight and soil to stay healthy, people need honesty and kindness to keep their hearts strong and their choices true.\\n\"\n\"Long ago, wise leaders taught that freedom cannot last unless leaders live by truth, fairness, and love. Without these, freedom begins to fade. But when people lead with virtue every day, freedom blossoms—just like flowers warmed by the summer sun.\\n\"\n\"Come join Ande, Sam, and their Freedom Garden friends as they discover how growing leadership in their lives makes their garden—and their world—shine bright!\"\n)",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "A ribbon of light on the garden floor / Led Ande and Sam past blooms galore. / They skipped through petals in morning’s glow / Following sparkles that seemed to know.",
+          "imagePlaceholder": "/illustrations/book3/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "They came to a pond, calm, silver, and wide / Its surface shimmered like glass on a tide. / A lily-pad sign with letters thin / Read, “Come and see the leader within.”",
+          "imagePlaceholder": "/illustrations/book3/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Ande leaned close, her eyes open wide / What she saw was magical a true delight— / She was helping Scout find a grassy lane / Guiding her safe from the falling rain.",
+          "imagePlaceholder": "/illustrations/book3/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Sam bent down and he did see / Buzz trying hard to sip nectar for tea. / Sam held the stem so the flower bent low / Making it easy for Buzz to go.",
+          "imagePlaceholder": "/illustrations/book3/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Nanny Dolores came next into view /Her smile was warm and the sky was blue. / “This pond shows what you might be / If you lead with care and honesty.”",
+          "imagePlaceholder": "/illustrations/book3/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "“Leaders help every seed to grow / They listen well and kindness show. / They choose what’s best for one and all / And lift up friends both big and small.”",
+          "imagePlaceholder": "/illustrations/book3/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Scout hopped close with a little cheer / The pond showed her leading it was clear. / Guiding the young to clover sweet / Keeping them safe from trampling feet.",
+          "imagePlaceholder": "/illustrations/book3/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Buzz buzzed in with a busy sound / The pond showed bees all around. / Each flower visited one by one / Till every bit of the work was done.",
+          "imagePlaceholder": "/illustrations/book3/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Slowly came Terra, steady and true / The pond showed what he might do. / Shielding a sapling from winds that blew / Standing firm through a windy night.",
+          "imagePlaceholder": "/illustrations/book3/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The pond’s voice whispered soft and clear / “Leadership’s grown year by year. / A gift you give in all you do / The choice belongs each day to you.”",
+          "imagePlaceholder": "/illustrations/book3/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "“What if I fail?” young Ande sighed. / Nanny Dolores stood by her side. / “Then you learn and try once more / That’s what every leader’s for.”",
+          "imagePlaceholder": "/illustrations/book3/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "“It’s not about being first in line / It’s choosing what is fair and kind. / It’s caring more for the garden’s cheer / Than wearing a crown from year to year.”",
+          "imagePlaceholder": "/illustrations/book3/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "That night they promised beneath the moon / To lead with hearts in a gentle tune. / To be both humble, brave, and fair / And always show how much they care.",
+          "imagePlaceholder": "/illustrations/book3/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The garden glowed in silver light / Its leaves all rested through the night. / It knew their promise, pure and true / Would help the garden’s dreams come through.",
+          "imagePlaceholder": "/illustrations/book3/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Now every bloom and branch agrees / True leaders are like caring trees. / They grow with love, they give with grace / And make the garden a better place.",
+          "imagePlaceholder": "/illustrations/book3/page15.png"
+        }
+      ],
+      "activity": "Leader of the Day! Take turns being “Leader of the Day” at home. The leader makes one family decision, explains it, and listens to ideas. At the end, share what made them a good leader.",
+      "epilogue": "\"This story introduces Virtuous Leaders, the 3rd of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap, a book by W. Cleon Skousen, which highlights the importance of moral foundations in nurturing freedom.\\n\"\n\"True leadership is not about seeking power but about lifting others. As the Founders understood, liberty depends on leaders who are virtuous, fair, and guided by service.\\n\\n\"\n\"As you reflect with your child, consider questions such as:\\n\"\n\"• How did Ande, Sam, and their friends learn to help one another in this story?\\n\"\n\"• What does it mean to lead with kindness instead of control?\\n\"\n\"• Can you think of someone in your family or community who shows good leadership?\\n\\n\"\n\"By connecting leadership to everyday choices, children can see that freedom survives only when leaders—and all of us—act with honesty, fairness, and care.\"\n)"
+    },
+    {
+      "bookNumber": 4,
+      "title": "The Guiding Star",
+      "preface": "Welcome to the fourth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called The Role of Religion.\nThe Role of Religion means faith and moral values help guide our choices and bring communities together.\nJust like a garden needs sunlight and soil to stay healthy, people need faith and kindness to keep their hearts strong and their choices true.\nLong ago, wise leaders taught that freedom cannot last unless people live by truth, fairness, and love. Without these, freedom begins to fade. But when people practice faith, fairness, and compassion every day, freedom blossoms—just like flowers warmed by the summer sun.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how growing faith in their lives makes their garden—and their world—shine bright!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "In the garden, calm and still,\nsat a compass on the hill.\nIts needle froze, no light to guide,\n“The garden’s lost its star,” Sam cried.",
+          "imagePlaceholder": "/illustrations/book4/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Grandma Dolores came near to say,\n“I think its star has lost its way, gone astray.\nLike faith, it shines to keep us true,\nThrough shadowed nights or skies of blue.”",
+          "imagePlaceholder": "/illustrations/book4/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“Let’s find that star!” cried Ande bright,\nSam grabbed his cap, prepared for night.\nScout packed a bag, Buzz checked his chart,\nFlora’s wings beat quick to start.",
+          "imagePlaceholder": "/illustrations/book4/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "They crossed the meadow, clouds hung low,\nHiding tiny stars that softly glow.\n“Where’s the light?” asked Sam’s small crew,\nBuzz sighed, “I can’t see a single clue!”",
+          "imagePlaceholder": "/illustrations/book4/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "“Perhaps it’s gone,” said Flora small,\nBut Grandma smiled, “It waits for all.\nStars don’t vanish or go away,\nThrough darkest nights and troubled air.”",
+          "imagePlaceholder": "/illustrations/book4/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Up the hillside, hearts beat fast,\nSam urged them on, “We’re close at last!”\nBuzz cried out, “I see a gleam—\nCould that be the star of our dream team?”",
+          "imagePlaceholder": "/illustrations/book4/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "They found the star, so faint, so shy,\nA fragile spark against the sky.\n“Why so dim?” asked Ande’s crew,\n“Faith,” said Grandma, “needs care from me and you.”",
+          "imagePlaceholder": "/illustrations/book4/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "“Like seeds,” she said, “faith needs the light,\nHope through the day, night’s OK.”\nSam poured on glow from a watering can,\nAnd Flora’s dust danced as it ran.",
+          "imagePlaceholder": "/illustrations/book4/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "The star grew strong, its silver beam\nLit up their path like a bright daybeam.\n“It’s shining now!” said Sam with pride,\nThe light spread far and opened wide.",
+          "imagePlaceholder": "/illustrations/book4/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "They hurried back, the star in tow,\nTo where the compass waited low.\nIt spun around, then pointed true,\nAnd flowers bloomed in red, gold, and blue.",
+          "imagePlaceholder": "/illustrations/book4/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "“Faith is like this star,” said she, “guiding you and me.”\n“It guides us through uncertainty.\nWhen skies are dark, it lights the way,\nAnd gives us hope for each new day.”",
+          "imagePlaceholder": "/illustrations/book4/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Grandma placed in Ande’s hand\nA charm shaped like the light so grand.\nSam peered in close, his eyes aglow,\n“We’ll keep its light wherever we go.”",
+          "imagePlaceholder": "/illustrations/book4/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "That night, she wrote in careful lines,\nOf starlit paths and garden signs:\n“Faith shines like stars to help us grow,\nSteady when winds blow.”",
+          "imagePlaceholder": "/illustrations/book4/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The compass gleamed, the garden slept,\nThe faithful star its vigil kept.\nThrough every night, its light would stay,\nTo guide their hearts by gentle ray.",
+          "imagePlaceholder": "/illustrations/book4/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "The garden glows with peace and grace;\nTheir guiding star holds every place.",
+          "imagePlaceholder": "/illustrations/book4/page15.png"
+        }
+      ],
+      "activity": "Can you help guide the stars back to their places in the sky? Search the garden for hidden star symbols and connect them to form constellations!",
+      "epilogue": "This story introduces The Role of Religion, the 4th of 28 principles featured in Liberty’s Principles Pals and inspired by W. Cleon Skousen’s The 5,000 Year Leap. This list of principles is a modern synthesis of ideas that historical evidence shows influenced America’s founding—not a direct framework written into the Constitution.\n\nGeorge Washington wrote, “Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports.”\n\nReligion—the practice of faith and moral goodness—teaches us to care for one another and live with honesty. Just as healthy roots steady a tree, faith gives our choices strength and helps freedom grow strong. When communities nourish faith and kindness, they build trust and cooperation.\n\nAs you reflect with your child, consider questions such as:\n• How does faith help Ande and Sam find their way when the garden is dark?\n• Can you think of a time when believing in something good helped you make a kind choice?\n• What simple acts of fairness and kindness help your home or classroom feel peaceful?\n\nBy connecting faith to everyday choices, children can see that freedom survives only when people practice moral goodness. Faith is the root of liberty—strong and steady."
+    },
+    {
+      "bookNumber": 5,
+      "title": "The Seeds of Creation",
+      "preface": "Welcome to the fifth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called Acknowledging a Creator.\nAcknowledging a Creator means recognizing that all people are made equal under a higher power, and that every life has dignity and purpose.\nJust like seeds need sunlight, soil, and water to grow, people need respect and care to thrive.\nLong ago, wise leaders taught that freedom cannot last unless we honor the worth of every person.\nWhen we respect one another as creations of God, freedom blossoms—just like a tree growing tall from a tiny seed.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how planting seeds can teach us about the Creator’s plan for life, growth, and freedom!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "One sunny day, while pulling weeds,\nAnde found a tiny seed.\nSam bent close, “It’s carved with lines!\nIt might hold codes or secret signs.”",
+          "imagePlaceholder": "/illustrations/book5/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Grandma smiled, her eyes aglow,\n“This seed has stories you should know.\nIt’s waited long for perfect hands,\nTo plant it here in garden lands.”",
+          "imagePlaceholder": "/illustrations/book5/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "They dug a hole, both side by side,\nSam set the seed, Ande pressed with pride.\n“The earth will keep it safe and sound,\nTill roots and shoots push through the ground.”",
+          "imagePlaceholder": "/illustrations/book5/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "But days went by without a sprout,\nSam scratched his head, “I’m figuring out—\nMaybe more water, or a special brew?”\nBuzz said, “Just plain rain will do!”",
+          "imagePlaceholder": "/illustrations/book5/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Grandma said, “It takes more than this.\nA seed’s a promise, life’s own kiss.\nIt grows when ready, in its way,\nConnected to the One who made the day.”",
+          "imagePlaceholder": "/illustrations/book5/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Terra spoke with voice so slow,\n“Each seed has its path to grow.\nMade with care by hands unseen,\nTo fill the world with life and green.”",
+          "imagePlaceholder": "/illustrations/book5/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Ande said, “We’re like seeds, each one.\nOur lives unfold when time’s begun.”\nSam grinned, “So maybe we just wait—\nAnd trust the plan, both small and great.”",
+          "imagePlaceholder": "/illustrations/book5/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "The days rolled by, then one bright morn,\nA tiny sprout at last was born.\nSam whooped loud, “It’s come alive!\nOur seed has found its time to thrive!”",
+          "imagePlaceholder": "/illustrations/book5/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "The sprout grew tall, became a tree,\nWith blossoms bright for all to see.\nSam tied a swing to its strongest limb,\nAnd laughed as Flora zipped past him.",
+          "imagePlaceholder": "/illustrations/book5/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Grandma held the empty shell,\n“This is the lesson it came to tell:\nCreation’s plan is wondrous, true,\nIt holds the world — and it holds you.”",
+          "imagePlaceholder": "/illustrations/book5/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "That night by lamp, Ande wrote it down,\nSam built a frame to hold it sound:\n“All are made with love and care,\nA Creator’s plan for all to share.”",
+          "imagePlaceholder": "/illustrations/book5/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "They closed their work, the garden still,\nStars above the moonlit hill.\nThe seed had grown, and so had they,\nIn the light of life’s own way.",
+          "imagePlaceholder": "/illustrations/book5/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Ande and Sam both understood,\nLife is meant for growing good.\nMade with purpose, love, and light,\nTo grow and share what’s just and right.",
+          "imagePlaceholder": "/illustrations/book5/page13.png"
+        }
+      ],
+      "activity": "Can you spot the magic of creation in the garden? Search for hidden seeds, sprouts, and blossoms that show how life begins and grows.",
+      "epilogue": "This story introduces Acknowledging a Creator, the 5th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by The 5,000 Year Leap by W. Cleon Skousen, which shows how America’s Founders built freedom on timeless truths.\n\nThomas Jefferson wrote: “God who gave us life gave us liberty. Can the liberties of a nation be thought secure when we have removed their only firm basis—a conviction in the minds of the people that these liberties are of the Gift of God?”\n\nAcknowledging a Creator reminds us that every life is a gift. Just as healthy roots anchor a tree, recognizing God’s hand in creation gives strength to our choices and helps freedom endure in our lives and communities.\n\nAs you reflect with your child, consider questions such as:\n• How did Ande and Sam learn that the seed was connected to something greater?\n• Can you think of a time when you felt part of something bigger than yourself?\n• How does remembering that each person has value change the way we treat one another?\n\nBy connecting this principle to everyday choices, children can see that freedom survives when we honor the dignity of every person as a creation of God."
+    },
+    {
+      "bookNumber": 6,
+      "title": "The Bridge of Equals",
+      "preface": "Welcome to the sixth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called Equality for All.\n\nEquality means every person deserves the same rights and opportunities, no matter their differences. Fairness helps everyone feel included and valued.\n\nJust like a bridge connects two sides of a stream, equality connects people to one another. When kindness and fairness are practiced, communities grow strong, like a garden that blossoms when every flower gets the light and care it needs.\n\nLong ago, America’s founders taught that all people are created equal. They believed fairness and opportunity are essential for liberty to survive. When everyone is treated with respect, freedom flourishes like a garden in full bloom.\n\nCome join Ande, Sam, and their Freedom Garden friends as they learn how fairness can build a bridge that helps everyone grow together!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "The Bridge of Equals By [Your Name]\nA garden split by a silver stream,\nOne side bright, the other dim.\nAnde stood where the two sides met,\nBy a wobbly bridge, old and wet.",
+          "imagePlaceholder": "/illustrations/book6/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "She knelt to see the planks up close,\nSome were cracked, and one was loose.\nAcross the stream, the flowers bowed,\nUnder trees that formed a cloud.",
+          "imagePlaceholder": "/illustrations/book6/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Flora fluttered, wings aglow,\n“That side struggles, you should know.\nToo much shade, no flowers high,\nThe sunlight’s blocked before the sky.”",
+          "imagePlaceholder": "/illustrations/book6/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Grandma came with gentle cheer,\n“This bridge has stood for many years.\nFairness is what the garden needs,\nSo both sides bloom from scattered seeds.”",
+          "imagePlaceholder": "/illustrations/book6/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "“We’ll make it strong!” Ande declared.\n“So sunlight, soil, and shade are shared.”\nBuzz buzzed, Scout hopped, Flora swirled,\nThey planned to help the garden world.",
+          "imagePlaceholder": "/illustrations/book6/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "They worked all day, they worked all night,\nBalancing each plank just right.\nBut soon they saw their fix would fail,\nIf “equal” didn’t tip the scale.",
+          "imagePlaceholder": "/illustrations/book6/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Grandma drew in garden sand:\n“Fair means meeting each one’s plan.\nTall plants need the light to grow,\nSmall ones like a softer glow.”",
+          "imagePlaceholder": "/illustrations/book6/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Terra spoke with steady grace,\n“The bridge must help each side find space.\nLet sunlight bend and breezes flow,\nSo every flower gets to grow.”",
+          "imagePlaceholder": "/illustrations/book6/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "With teamwork bright, they built anew,\nA bridge where fairness shone right through.\nNow sunlight spilled on every bed,\nAnd both sides proudly raised their heads.",
+          "imagePlaceholder": "/illustrations/book6/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The flowers bloomed, the leaves stretched wide,\nThe garden thrived on either side.\nAnde laughed, her work complete,\nWhere fairness made the blooms all meet.",
+          "imagePlaceholder": "/illustrations/book6/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Grandma gave Ande a gift that day—\nA plank from when the bridge was gray.\n“Remember,” she said, “the work you’ve done,\nFairness helps us live as one.”",
+          "imagePlaceholder": "/illustrations/book6/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "In her journal, neat and clear,\nAnde wrote for all to hear:\n“Fairness builds a bridge so strong,\nIt helps us all to get along.”",
+          "imagePlaceholder": "/illustrations/book6/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Activity Page: Find the Fairness Bridge!\nCan you spot these symbols of equality hidden in the garden?\n1. A balanced scale\n2. A sunbeam split in two\n3. Two flowers—one tall, one small—both blooming brightly",
+          "imagePlaceholder": "/illustrations/book6/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Closing Reflection: Equality means treating others with fairness and respect, recognizing that every person has value. Just as Ande and Sam rebuilt the bridge so both sides of the garden could thrive, equality helps connect people and ensure everyone has a chance to grow.",
+          "imagePlaceholder": "/illustrations/book6/page14.png"
+        }
+      ],
+      "activity": "Find the Fairness Bridge! Can you spot these symbols of equality hidden in the garden? 1. A balanced scale 2. A sunbeam split in two 3. Two flowers—one tall, one small—both blooming brightly",
+      "epilogue": "This story introduces Equality for All, the 6th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which highlights the foundations of liberty and justice.\n\n\"All men are created equal, and they are endowed by their Creator with certain unalienable Rights.\" — Declaration of Independence\n\nEquality means treating others with fairness and respect, recognizing that every person has value. Just as Ande and Sam rebuilt the bridge so both sides of the garden could thrive, equality helps connect people and ensure everyone has a chance to grow.\n\nAs you reflect with your child, consider questions such as:\n• How did fairness help Ande and Sam solve the garden’s problem?\n• Can you think of a time when someone treated you fairly and how it made you feel?\n• What are some ways we can practice fairness and kindness at home, at school, or in our community?\n\nBy connecting fairness to everyday choices, children can see that equality is the bridge that allows freedom to flourish."
+    },
+    {
+      "bookNumber": 7,
+      "title": "Ande and the Garden’s Forgotten Flowers",
+      "preface": "Welcome to the seventh book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called The Proper Role of Government is to Protect Equal Rights, Not Provide Equal Things.\nThis principle means that government’s job is to make sure everyone has the same rights—not to make sure everyone has the same things. Just as every flower in a garden needs sunlight and water, each plant still grows in its own way. Some grow tall, some grow wide, and some bloom with different colors.\nLong ago, wise leaders taught that freedom is safest when government protects our equal rights to life, liberty, and property. But if government tries to give everyone the same results, it can take away freedom from some to give to others. In this story, Ande and Sam discover that protecting what is ours—and taking responsibility for it—keeps the garden strong and beautiful.\nCome join Ande, Sam, and their Freedom Garden friends as they learn how responsibility protects the garden’s blossoms, and how freedom thrives when each of us cares for what we love.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "It was a sunny morning in Grandma Dolores’ magical land,\nRows of shimmering flowers bloomed, all perfectly planned.\n‘Please water the garden while I’m away for a spell,’\n‘I will!’ said Ande, ‘I’ll care for it well.’\n‘I’ll help!’ added Sam, grabbing his hat,\n‘Two hands are better—imagine that!’",
+          "imagePlaceholder": "/illustrations/book7/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Flora the Butterfly swooped in with delight,\n‘Let’s make a glittery path that sparkles so bright!’\nAnde’s eyes shone at the magical view,\nSam grinned, ‘I’ll help! We can make it look new.’\n‘Just for a while,’ Ande smiled to say,\n‘We’ll still water the flowers later today.’",
+          "imagePlaceholder": "/illustrations/book7/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "They gathered up petals, laid stones in a row,\nSprinkled gold dust to make the whole pathway glow.\n‘Oh wait until Grandma comes back here to see,\nThis magical trail you’ve made with me!’ said he.",
+          "imagePlaceholder": "/illustrations/book7/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "The watering can rested beside the green gate,\n‘I’ll water soon,’ Ande thought, ‘It can surely wait.’\nSam chased Scout while Flora looped high,\nAnd the thirsty flowers heaved a sigh.",
+          "imagePlaceholder": "/illustrations/book7/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Grandma returned as the sun touched the sky,\n‘The path is lovely—such joy to the eye!’\nYet her smile grew soft when her gaze did roam,\n‘Some flowers are thirsty, they’re missing their home.’",
+          "imagePlaceholder": "/illustrations/book7/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "‘I got distracted,’ Ande’s voice was small,\n‘So did I,’ Sam said, ‘We forgot them all.’\nGrandma knelt down and gave them a smile,\n‘Care keeps our beauty alive all the while.’",
+          "imagePlaceholder": "/illustrations/book7/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Terra the Turtle appeared from the shade,\n‘Freedom stays bright when good choices are made.\nEvery friend in this garden relies on your care,\nResponsibility’s gift is a treasure to share.’",
+          "imagePlaceholder": "/illustrations/book7/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "‘I’ll make it right!’ Ande said with a cheer,\n‘I’ll help,’ said Sam, ‘I’ll carry from here!’\nThey watered each flower from far to near,\nTill twilight wrapped them in silver clear.",
+          "imagePlaceholder": "/illustrations/book7/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Next morning the garden was brighter than gold,\nBuzz buzzed his thanks for the care they’d shown bold.\n‘The flowers are smiling and standing up tall,\nYou’ve given your best, and they’ve loved it all.’",
+          "imagePlaceholder": "/illustrations/book7/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "‘The butterfly path was fun, it’s true,’\nSaid Ande to Flora as fresh breezes blew.\n‘But fun and duty must work hand in hand,\nTo keep all the beauty that graces our land.’\nSam nodded, ‘And when we share the load,\nIt’s easier to walk the responsibility road.’",
+          "imagePlaceholder": "/illustrations/book7/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Ande placed a stone in her treasure box wide,\n‘A reminder of care and the joy deep inside.’\nSam tucked a petal in with a grin,\n‘To remember the day we worked to win.’",
+          "imagePlaceholder": "/illustrations/book7/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Grandma gave them each a new watering can to hold,\nPainted with flowers in colors bold.\n‘The garden is ready for its next surprise,’\nSaid Grandma with warmth in her twinkling eyes.",
+          "imagePlaceholder": "/illustrations/book7/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "At sunset, they sat under the tree,\nThinking of lessons the day gave for free.\nResponsibility, they now could see,\nWas the key to protecting life’s harmony.",
+          "imagePlaceholder": "/illustrations/book7/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Spot what has changed in two garden views,\nOne blooming with care, one wilted and used.\nAsk: ‘What can you do to protect what you love?’\nLet answers grow freely like sun from above.",
+          "imagePlaceholder": "/illustrations/book7/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Draw a garden of wonders, bright, fresh, and new,\nWrite how you’d care for it—what would you do?\nYour garden will thrive with the care you provide,\nAnd your choices will keep its beauty inside.",
+          "imagePlaceholder": "/illustrations/book7/page15.png"
+        }
+      ],
+      "activity": "Responsibility Checklist — draw a flower, write tasks on petals, color them in when done.",
+      "epilogue": "This story introduces The Proper Role of Government is to Protect Equal Rights, Not Provide Equal Things, the 7th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which explains how freedom depends on responsibility and the protection of rights.\n\n“Government is instituted to protect property of every sort… That alone is a just government which impartially secures to every man whatever is his own.” — James Madison\n\nRights—like free speech, fairness under the law, and the ability to keep what we earn—belong equally to everyone. But things—like money, toys, or flowers—depend on our own efforts and care. Just as Ande and Sam learned to water their garden instead of expecting someone else to do it, we must take responsibility for what is ours if we want it to grow.\n\nAs you reflect with your child, consider questions such as:\n• What does it mean to have the same rights but not the same things?\n• Why is it important to care for what belongs to us?\n• How does responsibility help protect freedom?\n\nBy connecting rights and responsibilities, children can see that freedom is not about getting equal things—it’s about protecting equal chances and taking care of what we love."
+    },
+    {
+      "bookNumber": 8,
+      "title": "Ande and the Seeds That Belong to Everyone",
+      "preface": "Welcome to the eighth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called Unalienable Rights.\n\nUnalienable Rights are freedoms that belong to everyone simply because they are human. They cannot be taken away, given away, or traded. These rights include life, liberty, and the pursuit of happiness.\n\nJust like every plant in a garden needs sunlight, water, and space to grow, every person needs their basic rights to flourish. When we protect these rights for ourselves and others, our communities become stronger and more joyful.\n\nLong ago, wise leaders taught that freedom cannot last unless we honor the rights given to each of us by our Creator. These rights are not gifts from government — they are part of who we are. When we respect them, freedom blossoms — just like flowers nourished by sun and rain.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how protecting these rights helps their garden — and their world — grow bright and free!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "One sunny morn by the garden gate,\nAnde found a box — was it gift or fate?",
+          "imagePlaceholder": "/illustrations/book8/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "She opened the lid and light spilled through,\nSeeds that sparkled in gold and blue.",
+          "imagePlaceholder": "/illustrations/book8/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Sam asked, 'Who owns them? Who gets to keep?'\nFlora said, 'They're for all — both strong and meek.'",
+          "imagePlaceholder": "/illustrations/book8/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "'These seeds are rights,' said Flora bright,\n'Unalienable — yours by birthright.'",
+          "imagePlaceholder": "/illustrations/book8/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "'Unalienable?' Sam asked with a grin,\nBuzz buzzed, 'It means they're yours — deep within.'",
+          "imagePlaceholder": "/illustrations/book8/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Scout said, 'Like sunshine all can share,\nNo lock can keep it from the air.'",
+          "imagePlaceholder": "/illustrations/book8/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Terra warned, 'They fade away,\nIf hidden or stolen — they won't stay.'",
+          "imagePlaceholder": "/illustrations/book8/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "'So care for each other's seeds,' Ande guessed,\n'Yes,' said Flora, 'They grow when blessed.'",
+          "imagePlaceholder": "/illustrations/book8/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "'If we forget, the garden will dim,\nAnd joy will fade for her and him.'",
+          "imagePlaceholder": "/illustrations/book8/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "'Let's plant them wide, in soil and light,\nSo everyone shares what's fair and right.'",
+          "imagePlaceholder": "/illustrations/book8/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Scout dug holes, Sam used his hat,\nAnde whispered, 'Grow strong where you're at.'",
+          "imagePlaceholder": "/illustrations/book8/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Sprouts soon glowed in the soft night air,\nThe garden felt warmer — love was there.",
+          "imagePlaceholder": "/illustrations/book8/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "'These seeds are rights,' Ande said bright,\n'They bloom when we guard them, day and night.'",
+          "imagePlaceholder": "/illustrations/book8/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The garden bloomed with joy anew,\nProtecting each seed was the best thing to do.",
+          "imagePlaceholder": "/illustrations/book8/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Our Family's Unalienable Seeds — Discussion prompt: 'What's the difference between rights and privileges? Which rights should no one ever take away?' Activity: Each family member writes one right on a paper seed, decorates it, and plants it in a family 'Unalienable Garden' poster or jar. For younger kids: Explain how rights (kindness, safety, sharing feelings) always remain, even if privileges change.",
+          "imagePlaceholder": "/illustrations/book8/page15.png"
+        }
+      ],
+      "activity": "Mini activity recap and note: 'Learn more about your rights and how to protect them at libertysprinciplesmedia.com.'",
+      "epilogue": "This story introduces Unalienable Rights, the 8th of 28 principles featured in Liberty's Principles Pals. These principles are inspired by The 5,000 Year Leap by W. Cleon Skousen, which highlights how protecting God-given rights keeps freedom alive.\n\n\"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.\" — The Declaration of Independence\n\nUnalienable rights — like life, liberty, and the pursuit of happiness — cannot be taken away because they come from our Creator, not from government. Just as healthy roots allow a garden to grow strong, these rights allow people and communities to thrive.\n\nAs you reflect with your child, consider questions such as:\n• What makes rights different from privileges?\n• Can you think of examples of rights that everyone should always have?\n• How does protecting others' rights help our own freedom grow?\n\nBy connecting the idea of unalienable rights to everyday choices, children learn that freedom survives only when we honor and protect the rights of every person."
+    },
+    {
+      "bookNumber": 9,
+      "title": "The Guiding Star",
+      "preface": "Welcome to the ninth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called Following the Higher Light (Divine Law).\n\nIt means that while rules and laws help keep order, there is a higher moral guidance—like a star—that tells us what is truly right and wrong. This guidance comes from the Creator and helps us protect everyone’s rights.\n\nJust as a compass needs a guiding star to point true north, people need a moral compass to guide their choices. Rules alone can’t make flowers bloom; they need light and warmth, too. In the same way, our hearts need moral light to help us make good choices.\n\nLong ago, wise leaders taught that freedom is safest when our laws reflect these higher principles. When we ignore this moral compass, freedom fades. But when we follow the higher light, freedom blossoms—like flowers under a guiding star.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how following the higher light helps their garden—and their world—flourish!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "The Garden Council gathered around the old compass. Its needle spun in circles, pointing nowhere.",
+          "imagePlaceholder": "/illustrations/book9/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "“Without the guiding star,” said Terra, “the compass can’t find true north.”",
+          "imagePlaceholder": "/illustrations/book9/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "They decided to search every garden path for the missing star’s light.",
+          "imagePlaceholder": "/illustrations/book9/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "First, they visited Sunflower Lane. Rules were posted on every sign, but something still felt wrong.",
+          "imagePlaceholder": "/illustrations/book9/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "“Rules help,” said Sam, “but they can’t make the flowers bloom.”",
+          "imagePlaceholder": "/illustrations/book9/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Next, they tried Rose Arch. Everything looked perfect—but felt empty.",
+          "imagePlaceholder": "/illustrations/book9/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "“The star’s light brings more than order,” said Ande. “It brings life.”",
+          "imagePlaceholder": "/illustrations/book9/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Following a glimmer, they reached a hidden grove where the star rested in tall grass.",
+          "imagePlaceholder": "/illustrations/book9/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "“It’s beautiful,” whispered Sam. “It feels… right.”",
+          "imagePlaceholder": "/illustrations/book9/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "They carried the star back to the compass. The needle pointed true north at once.",
+          "imagePlaceholder": "/illustrations/book9/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "The garden brightened, flowers opened, and bees and butterflies returned.",
+          "imagePlaceholder": "/illustrations/book9/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "“The compass is like our rules,” said Terra. “The star is like our moral compass.”",
+          "imagePlaceholder": "/illustrations/book9/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "“We need both,” said Ande, “to help us make good choices.”",
+          "imagePlaceholder": "/illustrations/book9/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "That night, they lay in the grass, gazing at the stars.",
+          "imagePlaceholder": "/illustrations/book9/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "“We’ll follow the higher light,” they promised. And the garden thrived.",
+          "imagePlaceholder": "/illustrations/book9/page15.png"
+        }
+      ],
+      "activity": "Family Compass Activity: Make your own 'Moral Compass.' On a paper plate, draw an arrow and write values (honesty, kindness, courage). Decorate with stars. Turn the arrow to choose a value for the day.",
+      "epilogue": "This story introduces Following the Higher Light (Divine Law), the 9th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by The 5,000 Year Leap by W. Cleon Skousen, which shows that laws alone cannot protect liberty without a moral foundation.\n\nJohn Adams warned, “We have no government armed with power capable of contending with human passions unbridled by morality and religion.” In other words, without moral guidance, laws lose their meaning.\n\nDivine Law, or higher moral guidance, is like the star that helps the compass find true north. Laws and rules are important, but they need the light of moral truth to make them work. Just as the garden’s compass needed the guiding star, our rules need the light of love, honesty, and respect to guide our choices.\n\nAs you reflect with your child, consider questions such as:\n• How did the guiding star help the compass point true?\n• Why aren’t rules enough to make the garden bloom?\n• What does it mean to follow the higher light in our own lives?\n\nBy connecting divine law to everyday choices, children can see that freedom survives only when people follow a higher moral guidance along with their rules."
+    },
+    {
+      "bookNumber": 10,
+      "title": "The Garden’s Voice",
+      "preface": "Welcome to the tenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called People’s Sovereignty.\n\nPeople’s Sovereignty means the power to govern comes from the people themselves, not from kings or rulers. Leaders must listen to citizens because true authority belongs to everyone together.\n\nJust like a garden grows best when every plant has sunlight, water, and space, a community grows strong when every voice is heard. When all people share in making decisions, freedom thrives.\n\nLong ago, wise leaders declared that government’s power comes from “the consent of the governed.” That means leaders can only govern when people agree to let them. This truth makes freedom strong and lasting.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how every voice, big and small, can help the garden—and their world—shine with harmony!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "In Grandma’s garden, tall and bright, The sunflowers danced in golden light. But something new was growing clear, The other plants had shrunk in fear.",
+          "imagePlaceholder": "/illustrations/book10/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "“Why are the daisies looking gray? The garden’s magic fades away!” Grandma said, “Each plant, you see, Needs its space to grow and be free.”",
+          "imagePlaceholder": "/illustrations/book10/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“Plants are like people,” Grandma shared, “A garden thrives when the space is shared. When voices are silenced, magic wanes, We must restore what now remains.”",
+          "imagePlaceholder": "/illustrations/book10/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Ande called her garden friends, “To fix this problem, make amends!” Scout hopped quickly to find more light, Flora fluttered to spread insight.",
+          "imagePlaceholder": "/illustrations/book10/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Buzz said, “We’ll shift the sunflower row, To give the smaller plants room to grow!” Ande nodded, “Let’s try and see, How we can work in harmony.”",
+          "imagePlaceholder": "/illustrations/book10/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Scout leapt to clear the soil with speed, While Flora guided each new seed. Buzz spread pollen to help things grow, As Terra steadied the earth below.",
+          "imagePlaceholder": "/illustrations/book10/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "The sunflowers shifted, row by row, And now the daisies began to grow. Their petals stretched, their colors came back, The garden regained the magic it lacked.",
+          "imagePlaceholder": "/illustrations/book10/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Grandma smiled and softly said, “You’ve listened well, my clever head. Like people’s voices, strong and free, The garden blooms with harmony.”",
+          "imagePlaceholder": "/illustrations/book10/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "“The garden’s a team,” said Ande, “it’s clear, Each plant has a role that we must hear. Working together, hand in hand, Brings life and fairness to the land.”",
+          "imagePlaceholder": "/illustrations/book10/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Grandma gave Ande a seed so small, “A symbol of fairness to guide us all. Keep this safe as a promise true, To share the light in all you do.”",
+          "imagePlaceholder": "/illustrations/book10/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Ande smiled and said with glee, “Each voice, each plant is meant to be! From daisies small to sunflowers grand, We all must work to share the land.”",
+          "imagePlaceholder": "/illustrations/book10/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "To celebrate, they gathered in cheer, A garden picnic, far and near. Scout munched carrots, Flora danced, Ande hummed as sunlight glanced.",
+          "imagePlaceholder": "/illustrations/book10/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "The garden glowed with magic bright, Each plant and creature shared the light. Grandma whispered, “Now you know, Together’s how all good things grow.”",
+          "imagePlaceholder": "/illustrations/book10/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Closing note: Every voice matters, whether it’s in a garden or a community. By listening, sharing space, and working together, we create a place where everyone can thrive.",
+          "imagePlaceholder": "/illustrations/book10/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Activity: How can we share the light? Look for ways to make things fair. Work together, listen well, And help each voice the story tell!",
+          "imagePlaceholder": "/illustrations/book10/page15.png"
+        }
+      ],
+      "activity": "Activity instructions with icons for ‘Listen,’ ‘Share,’ and ‘Decide Together.’",
+      "epilogue": "This story introduces People’s Sovereignty, the 10th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which explains how freedom flourishes when power remains in the hands of the people.\n\n“Here, sir, the people govern.” — Alexander Hamilton\n\nPeople’s Sovereignty means governments serve by consent, not command. When citizens work together, listen to one another, and take part in shaping their communities, freedom grows—just like every plant in the garden needs space to flourish.\n\nAs you reflect with your child, consider questions such as:\n• How did Ande and her friends make sure every plant had space and light?\n• What does it mean for leaders to listen to the people?\n• How can families make decisions so everyone’s voice is heard?\n\nBy connecting fairness and shared decision-making to daily life, children can see that true strength comes from respecting every voice. Sovereignty belongs to the people, and that makes liberty possible."
+    },
+    {
+      "bookNumber": 11,
+      "title": "The Right to Rise",
+      "preface": "Welcome to the eleventh book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called The Right to Rise.\n\nThe Right to Rise means that when something is harmful or unfair, people can join together to make it right. Just like a garden needs careful tending to stay alive, freedom needs courage and teamwork to stay strong.\n\nLong ago, wise leaders taught that if rulers became too harsh, the people had the right to change their government and build something better. Without this right, freedom withers. But when people stand together with fairness and courage, freedom blossoms—just like a tree freed from choking vines.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how standing for what’s right can keep their garden—and their world—alive with freedom!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Ande skips beneath a grand apple tree. “Apples for everyone!” she cries. Scout shouts, “Something’s wrong! Vines are about!”",
+          "imagePlaceholder": "/illustrations/book11/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Grandma Dolores arrives. “If we don’t act, the vine will take control and the tree will lose its heart and soul.”",
+          "imagePlaceholder": "/illustrations/book11/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“Let’s cut it!” Ande says, but the vine is too strong. “It’s taking the sunlight!” Flora warns.",
+          "imagePlaceholder": "/illustrations/book11/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "“This vine is like bad rulers in history,” Grandma says. “Unchecked power harms all.”",
+          "imagePlaceholder": "/illustrations/book11/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "“We’ll need a plan,” Ande says. Scout hops, Flora flaps, Buzz buzzes, Terra says, “Act without fear!”",
+          "imagePlaceholder": "/illustrations/book11/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "First, they tried to block it. But the vine grew stronger. “We can’t let it win!” Ande says.",
+          "imagePlaceholder": "/illustrations/book11/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Grandma says, “Be brave. Together you can bring back harmony.”",
+          "imagePlaceholder": "/illustrations/book11/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Ande rallies her friends: “We’ll pull, chop, and fight until the garden is set right!”",
+          "imagePlaceholder": "/illustrations/book11/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "They tugged and trimmed with all their might. The vine fought back, but they didn’t stop.",
+          "imagePlaceholder": "/illustrations/book11/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The vine began to crack. With one last tug, “The tree is free!” Ande cried.",
+          "imagePlaceholder": "/illustrations/book11/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "“Freedom’s like this tree,” says Ande. “It needs our care.”",
+          "imagePlaceholder": "/illustrations/book11/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Grandma hands Ande the apple. “Courage and teamwork conquer all.”",
+          "imagePlaceholder": "/illustrations/book11/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "In her journal Ande writes: “Stand for what’s right. Together we thrive.”",
+          "imagePlaceholder": "/illustrations/book11/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The garden rests under the tree’s shade, creatures happy and safe.",
+          "imagePlaceholder": "/illustrations/book11/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Ande smiles, knowing they’ve kept freedom alive in their garden.",
+          "imagePlaceholder": "/illustrations/book11/page15.png"
+        }
+      ],
+      "activity": "Help Ande find the symbols of freedom in the garden—broken vine, bright apples, and a balanced scale!",
+      "epilogue": "This story introduces The Right to Rise, the 11th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which highlights the importance of safeguarding freedom against tyranny.\n\n“All tyranny needs to gain a foothold is for people of good conscience to remain silent.” —Thomas Jefferson\n\nFreedom survives when people unite with courage and fairness to resist harmful power. Just as Ande and her friends pulled the vine from the apple tree, we must care for liberty by standing up when things go wrong.\n\nAs you reflect with your child, consider questions such as:\n• How did teamwork help Ande and her friends save the tree?\n• Can you think of a time when you stood up for what was right?\n• How can families work together to protect fairness and freedom every day?\n\nBy showing children that they, too, can stand strong in the face of unfairness, we help them understand that courage and unity are the roots of lasting liberty."
+    },
+    {
+      "bookNumber": 12,
+      "title": "Ande and the Garden Council",
+      "preface": "Welcome to the twelfth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called A Republican Form of Government.\n\nA republic means people choose representatives to speak and decide for them. This way, everyone’s voice can be heard, but decisions are made fairly and wisely.\n\nJust like a garden needs a council to share sunlight and water, people need representatives to balance many needs in a large community.\n\nLong ago, the Founders taught that pure democracy could be unfair—letting the loudest or largest group take over. A republic, however, protects everyone, including the small and quiet voices.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how electing representatives keeps their garden—and their world—peaceful and strong!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Ande skipped through Grandma's magical garden. Suddenly, she noticed the plants were arguing! 'I need more sun!' shouted the tulip. 'The carrots are hogging the water!' yelled the beans. 'This garden is in chaos!' exclaimed Ande.",
+          "imagePlaceholder": "/illustrations/book12/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Grandma Dolores appeared with her warm smile. 'Sometimes a group needs a fair way to decide what’s best,' she said. 'What if we form a Garden Council?'",
+          "imagePlaceholder": "/illustrations/book12/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“Each group of plants will choose a representative,” Grandma explained. “That way, everyone’s needs are heard without too much chatter.” “Let’s do it!” Ande cheered.",
+          "imagePlaceholder": "/illustrations/book12/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Scout the Rabbit hopped around, collecting votes from each group. Flora the Butterfly fluttered by, sprinkling magic sparkles over the council table.",
+          "imagePlaceholder": "/illustrations/book12/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Soon, the representatives gathered: the tall sunflower, sturdy carrot, and elegant tulip. Grandma declared, “Now let the Council begin!”",
+          "imagePlaceholder": "/illustrations/book12/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "The sunflower spoke for the tall plants, requesting more sunlight. The carrot, representing root vegetables, explained the need for steady water. The tulip suggested a fair compromise.",
+          "imagePlaceholder": "/illustrations/book12/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Grandma nodded. “This is how a republic works! Representatives speak for their group to make decisions for the common good.”",
+          "imagePlaceholder": "/illustrations/book12/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Together, they created a plan: the sunflower would tilt slightly to share light, and Scout would adjust watering for balance. Everyone agreed!",
+          "imagePlaceholder": "/illustrations/book12/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Ande beamed. “We solved it by working together—and letting everyone have a say!” The garden glowed with harmony once more.",
+          "imagePlaceholder": "/illustrations/book12/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Grandma smiled. “Remember, Ande, a republic works when everyone participates and respects the process.” Ande nodded. “I’ll always remember the Garden Council!”",
+          "imagePlaceholder": "/illustrations/book12/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "In her journal, Ande wrote: “The Garden Council taught me that good decisions come from listening to everyone’s needs.”",
+          "imagePlaceholder": "/illustrations/book12/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "To celebrate, the garden creatures held a feast. Scout shared carrots, Flora danced, and Buzz buzzed a cheerful tune.",
+          "imagePlaceholder": "/illustrations/book12/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Grandma handed Ande a small acorn. “This is a symbol of what grows when we work together.” Ande smiled and added it to her treasure box.",
+          "imagePlaceholder": "/illustrations/book12/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The garden slept peacefully, the Council’s work done—until the next time they’d gather to listen, speak, and decide together.",
+          "imagePlaceholder": "/illustrations/book12/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Ande whispered to the garden, “Good leaders listen for all.” She closed her notebook, ready for the next adventure.",
+          "imagePlaceholder": "/illustrations/book12/page15.png"
+        }
+      ],
+      "activity": "Family Activity – Create Your Own Family Council: Choose a topic for your family to decide together. Elect one person to represent each group (siblings, parents, grandparents). Representatives collect everyone’s ideas. Meet and make a fair decision that considers all needs.",
+      "epilogue": "This story introduces A Republican Form of Government, the 12th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which explains how the Founders built a system to protect both majority rule and minority rights.\n\n“Democracy never lasts long. It soon wastes, exhausts, and murders itself. There never was a democracy yet that did not commit suicide.” — John Adams\n\nA republic is different. It balances freedom with responsibility. Representatives are chosen to listen, deliberate, and decide for the good of all.\n\nAs you reflect with your child, consider questions such as:\n• Why is it sometimes better to choose representatives instead of having everyone vote on every little thing?\n• How did the Garden Council help solve problems fairly?\n• Can you think of examples in your family, school, or community where people choose leaders to speak for them?\n\nBy learning how a republic works, children can see that freedom survives best when everyone participates, respects the rules, and protects each other’s rights."
+    },
+    {
+      "bookNumber": 13,
+      "title": "Ande and the Garden’s Book of Rules",
+      "preface": "Welcome to the thirteenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called The Importance of a Written Constitution.\n\nA written constitution means the most important rules are written down so they cannot be forgotten, twisted, or ignored.\n\nJust like a garden needs clear labels to show which seeds are planted, people need written rules to guide fairness and protect freedom.\n\nLong ago, wise leaders learned that spoken promises fade, but written ones endure. By writing down the rules, they created a safeguard for liberty.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how writing rules helps their garden—and their world—stay fair and strong!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Through flowers tall and vines so green, Ande skipped into a bustling scene. The Garden Friends were in a tangle, Debating rules from every angle.",
+          "imagePlaceholder": "/illustrations/book13/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Sam said, “I thought we take turns for the swing!” “No, that’s not how,” cried Terra, “I heard a new thing!” Without a plan they all disagreed, Ande knew just what they’d need.",
+          "imagePlaceholder": "/illustrations/book13/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Nanny Dolores arrived with a knowing smile, “Friends, let’s talk and sit for a while. When rules are just spoken, they can drift or bend—But written ones guide us to the very end.”",
+          "imagePlaceholder": "/illustrations/book13/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "“Long ago,” she said, “leaders made this mistake—They trusted that memory alone would not break. But people forget or change what they say, So the rules must be written to stay the right way.”",
+          "imagePlaceholder": "/illustrations/book13/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Ande thought hard, then tapped her chin, “A Garden Book will keep fairness in! Each voice can help, each hand can write, So we remember what’s just and right.”",
+          "imagePlaceholder": "/illustrations/book13/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Flora wrote, “Share water on sunny days.” Buzz added, “Mark safe garden ways.” Scout scribbled, “Be kind when you play.” Terra nodded, “And help clear the way.”",
+          "imagePlaceholder": "/illustrations/book13/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Sam drew a picture of the garden swing, “To remind us that sharing’s a beautiful thing.” The book began to fill with care, A treasure of rules for all to share.",
+          "imagePlaceholder": "/illustrations/book13/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "But a gust of wind made pages fly— “Oh no!” cried Flora, “They’re gone to the sky!” They chased the leaves through flower and tree, Working together in harmony.",
+          "imagePlaceholder": "/illustrations/book13/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "They gathered each page, no rule left behind, Laughing and helping, the pages aligned. Nanny tied them safe with a sturdy thread, “This way our rules stay clear,” she said.",
+          "imagePlaceholder": "/illustrations/book13/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "“Now,” said Dolores, “this book we’ll protect, From rain, from wind, from any neglect. A constitution for our garden bright, To guard our joy and guide what’s right.”",
+          "imagePlaceholder": "/illustrations/book13/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Ande read aloud the very first page, Her voice rang clear across the stage: “In this garden, we work as one—Sharing joy till the day is done.”",
+          "imagePlaceholder": "/illustrations/book13/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Each friend signed their name with pride, Promising to keep the rules inside. From that day on, when questions came, They’d check the book to think the same.",
+          "imagePlaceholder": "/illustrations/book13/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "And when new friends arrived to play, The Garden Book showed the way. No quarrels grew, no tempers hot—Because the rules were not forgot.",
+          "imagePlaceholder": "/illustrations/book13/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "“Write it to keep it right,” Ande would say, And peace bloomed in the garden each day. The Book of Rules stood firm and true, Keeping the garden fresh as dew.",
+          "imagePlaceholder": "/illustrations/book13/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "So remember, dear reader, in all that you do, Write down the rules to guide you through. For memory fades and words can stray, But what’s written can light the way.",
+          "imagePlaceholder": "/illustrations/book13/page15.png"
+        }
+      ],
+      "activity": "Activity — Make Your Own Rule Book: Find a small notebook or staple some paper together. Write or draw your own family or classroom rules. Share your book and keep it in a safe place.",
+      "epilogue": "This story introduces The Importance of a Written Constitution, the 13th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which explains why clear and lasting rules are essential to freedom.\n\n“Unless the Constitution has the means to defend itself against alteration, it will be no constitution at all.” — Founders’ Wisdom\n\nA written constitution keeps freedom safe by making sure rules are clear and trusted. Just as Ande and Sam saw, when rules are written down, everyone knows what is fair, and no one can change them by mistake or misuse.\n\nAs you reflect with your child, consider questions such as:\n\nWhy is writing things down more reliable than just remembering them?\n\nCan you think of family or classroom rules that are written to help everyone remember?\n\nHow might clear, written rules protect fairness in your own life?\n\nBy linking this principle to everyday choices, children can see how written rules help freedom endure. Writing down the rules is the way we protect liberty."
+    },
+    {
+      "bookNumber": 14,
+      "title": "Seeds of Enterprise: The Free Market in Grandma’s Garden",
+      "preface": "Welcome to the fifteenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called The Free Market.\n\nThe Free Market means people are free to trade, build, and share their ideas. It helps everyone decide what to make, what to sell, and what to buy.\n\nJust like a garden grows when plants and creatures share sunlight, water, and soil, a free market grows when people share their work and trade fairly. With simple, honest rules to prevent cheating, everyone has a chance to flourish.\n\nLong ago, wise leaders taught that too many rules and controls could choke opportunity. They believed people should be trusted to trade and create, because freedom and fairness make prosperity bloom.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how honesty, trust, and free choices make their garden—and their world—burst with life!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "The morning dew was fresh and bright, The garden gates came into sight. “The market’s here!” called Ande, fast, With Sam beside her, racing past.",
+          "imagePlaceholder": "/illustrations/book14/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "“I’m selling carrots—need a price!” Said Scout, “But fair, not over twice.” “I’ve jars of jam!” said Sam with cheer, “Our trades will bring good friends right here.”",
+          "imagePlaceholder": "/illustrations/book14/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Grandma smiled, “A trade’s the way, When both agree on what to pay. Set prices fair for work you’ve done, And choice will make the market fun.”",
+          "imagePlaceholder": "/illustrations/book14/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "“Let’s make stalls for all to share!” Buzz drew lines with patient care. Flora hung garlands high in air, Terra rumbled, “I’ll keep it fair.”",
+          "imagePlaceholder": "/illustrations/book14/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "The market hummed, the colors gleamed, Just like the friends had always dreamed. Carrots, garlands, jam for bees—Trades were buzzing through the trees.",
+          "imagePlaceholder": "/illustrations/book14/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Sam saw a rival’s jam taste new, With cinnamon mixed right into the brew. “I’ll add some mint—just wait and see, Competition’s good for you and me!”",
+          "imagePlaceholder": "/illustrations/book14/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "But soon a frown on Scout’s face grew, “The carrots are gone—what should I do?” A squirrel had snuck with cheeks so wide, Trying to hide his carrot pride.",
+          "imagePlaceholder": "/illustrations/book14/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Grandma said, “For trust to stay, Fair rules must guide the trading way. Without them, markets fall apart, So honesty must lead the heart.”",
+          "imagePlaceholder": "/illustrations/book14/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Ande called out, “Let’s all agree, No trades without a price we see.” The squirrel nodded, “I’ll make it right, And earn my pebbles fair tonight.”",
+          "imagePlaceholder": "/illustrations/book14/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "With rules so clear, the trades flew fast, Sam’s minty jam sold out at last. Scout’s carrots went in honest deals, The market rolled on happy wheels.",
+          "imagePlaceholder": "/illustrations/book14/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "“Too many rules can slow the day,” Said Buzz, “and chase the trades away.” A snail at a desk with a mountain of forms, Made everyone laugh at his paper storms.",
+          "imagePlaceholder": "/illustrations/book14/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "As sunset warmed the garden glow, Grandma said, “Now you all know—Freedom and trust together grow, Just like the seeds we plant in rows.”",
+          "imagePlaceholder": "/illustrations/book14/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Ande wrote down what she had found: “Fair trade makes joy spread all around. Seeds of trust will always sprout, Where freedom lets the best come out.”",
+          "imagePlaceholder": "/illustrations/book14/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "“Competition makes us try our best,” Said Sam, “and stand out from the rest.” “Trade Fair, Grow Together,” they cheered that day—The garden market was here to stay.",
+          "imagePlaceholder": "/illustrations/book14/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "With honest trades and fair deals done, The Seeds of Enterprise had just begun.",
+          "imagePlaceholder": "/illustrations/book14/page15.png"
+        }
+      ],
+      "activity": "Activity – Create Your Own Family Market: Choose something to sell or trade, set a fair price, and exchange goods or tokens with your family. Discuss how honest trades help everyone thrive.",
+      "epilogue": "This story introduces The Free Market, the 15th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by The 5,000 Year Leap by W. Cleon Skousen, which shows how freedom grows when people can work, trade, and build with minimal interference.\n\n“Commerce is a cure for the most destructive prejudices; for it is almost a general rule, that wherever we find agreeable manners, there commerce flourishes.” — Montesquieu, The Spirit of the Laws\n\nThe Free Market teaches us that prosperity grows best when people are free to create and trade with honesty. Too many unnecessary rules can slow growth, but fair trade and simple protections help communities thrive.\n\nAs you reflect with your child, consider questions such as:\n\nHow did Ande, Sam, and their friends make the market fair?\n\nCan you think of a time when you traded or shared fairly with someone?\n\nWhat happens when there are no rules at all? What happens when there are too many?\n\nBy connecting freedom, fairness, and responsibility, children can see that prosperity grows best when honesty guides the market—just like seeds sprout strong in healthy soil."
+    },
+    {
+      "bookNumber": 15,
+      "title": "Ande and the Garden of Boundaries",
+      "preface": "Welcome to the fourteenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called Property Rights.\nProperty Rights mean that everyone has the right to care for, enjoy, and protect the things that belong to them.\nJust like every plant in a garden needs its own space to grow strong, people need the freedom to use and protect their belongings—whether it's their toys, their home, or the work they do.\nLong ago, wise leaders taught that freedom cannot last unless people’s property is safe. Without respect for what belongs to others, fairness fades and freedom weakens. But when we honor property rights and take care of what’s ours, freedom blossoms—just like a healthy garden where each plant has room to grow.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how respecting property makes their garden—and their world—strong and fair!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Ande loved the garden, neat and bright,\nTill one day chaos came to sight.\nScout nibbled blooms that weren’t his own,\nFlora plucked from Buzz’s sunny zone.\nSam frowned, “This isn’t right at all—\nIt’s time we answer Grandma’s call.”",
+          "imagePlaceholder": "/illustrations/book15/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Grandma Dolores came, calm but clear,\n“It seems our boundaries aren’t kept here.”\nSam asked, “Boundaries? Like garden lines?”\nAnde said, “Or like when toys are mine?”",
+          "imagePlaceholder": "/illustrations/book15/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“In gardens, each plant has its space to grow,\nLike people with property—something they know.\nIt’s care and respect for what’s yours and mine,\nThat keeps things healthy, safe, and fine.”",
+          "imagePlaceholder": "/illustrations/book15/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Grandma showed two plants side-by-side,\nOne neat and strong, the other denied.\n“Without respect, things twist and fall,\nProperty rights protect us all.”",
+          "imagePlaceholder": "/illustrations/book15/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Ande said, “Let’s make a Garden Map!”\nSam grabbed paper from his lap.\nHe drew neat rows and sunny spots,\nMarking spaces, dots by dots.",
+          "imagePlaceholder": "/illustrations/book15/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "“When we mix things up,” Sam said with a sigh,\n“We fix instead of enjoying the sky.”\nThe friends all nodded—it made good sense,\nRespect for space was their defense.",
+          "imagePlaceholder": "/illustrations/book15/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Scout pulled vines from tomato rows,\n“Room to grow is what each plant knows!”\nBuzz sparkled sunlight all around,\nHelping blooms spring from the ground.",
+          "imagePlaceholder": "/illustrations/book15/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Flora danced down the garden track,\n“Share the path, but give space back.\nWe’ll walk together, side by side,\nWhile each keeps their own place with pride.”",
+          "imagePlaceholder": "/illustrations/book15/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Grandma placed a sign in view,\n“The Garden Map” for all to use.\nAnde smiled—now it was clear,\nSam beamed, “Our plan brought harmony here!”",
+          "imagePlaceholder": "/illustrations/book15/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "“That’s what property rights will do—\nProtect what’s mine, and what’s yours too.\nThey guard our freedom every day,\nAnd help us work in a fair, kind way.”",
+          "imagePlaceholder": "/illustrations/book15/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "In her journal, Ande wrote it down,\nWhile the garden bloomed without a frown:\n“Respect what’s mine, and yours I’ll keep,\nSo peace and joy can grow so deep.”\nSam added, “When we share by choice,\nIt makes the garden sing one voice.”",
+          "imagePlaceholder": "/illustrations/book15/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "They held a fair to celebrate,\nSharing goods from every gate.\nCarrots, flowers, honey sweet—\nEvery friend had something neat.",
+          "imagePlaceholder": "/illustrations/book15/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Grandma gave Ande a golden key,\n“A symbol of care and responsibility.\nProperty’s not just owning a part—\nIt’s tending with hands and loving heart.”",
+          "imagePlaceholder": "/illustrations/book15/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Ande tucked the key in her treasure box tight,\nAs the sunset bathed the garden in light.\nSam said, “Respect and kindness grow—\nThat’s the best garden gift to know.”",
+          "imagePlaceholder": "/illustrations/book15/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "The garden glowed in harmony.\nAnde’s journal lay open to a page marked with a promise:\nRespect keeps freedom safe, and kindness lets it grow.",
+          "imagePlaceholder": "/illustrations/book15/page15.png"
+        }
+      ],
+      "activity": "Draw something you own that's important to you.\nWrite one way you'll take care of it.\nWrite one way you'll respect something that belongs to someone else.",
+      "epilogue": "This story introduces Property Rights, the 14th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which highlights the importance of protecting property as the foundation of liberty.\n\n“Government is instituted to protect property of every sort… This being the end of government, that alone is a just government which impartially secures to every man whatever is his own.” — James Madison\n\nProperty rights safeguard not just things we own, but our ability to live freely and independently. Just as each plant in the garden thrives when given its space, people thrive when their belongings, ideas, and efforts are respected.\n\nAs you reflect with your child, consider questions such as:\n• Why is it important to ask before borrowing something?\n• How does taking care of your own belongings help others trust you?\n• What would happen if no one respected what belonged to others?\n\nBy connecting these ideas to everyday choices, children can see that property rights are not only about ownership— they are about responsibility, respect, and the freedom to grow strong together."
+    },
+    {
+      "bookNumber": 16,
+      "title": "Ande and the Garden Roles",
+      "preface": "Welcome to the sixteenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called the Separation of Powers.\nThe Separation of Powers means different groups have different jobs so no one person has all the control. In government, one branch makes the rules, another enforces them, and another decides what is fair.\nJust like a vegetable garden grows best when some friends plant, others water, and others check the harvest, freedom grows when responsibilities are shared.\nLong ago, wise leaders taught that freedom fades when power is concentrated in one set of hands. But when power is divided and balanced, liberty thrives.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how sharing roles keeps their garden—and their world—fair and free!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "The garden gate swung wide that day,\nThe friends ran in to laugh and play.\nBut Buzz zipped up, “We’ve got a plight—\nThe jobs aren’t done, and nothing’s right!”",
+          "imagePlaceholder": "/illustrations/book16/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Scout explained, “We each have a role:\nOne plants the seeds in every hole,\nOne waters, weeds, and keeps them neat,\nOne tastes to see when crops are sweet.”",
+          "imagePlaceholder": "/illustrations/book16/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“But lately,” Flora softly sighed,\n“The Care row’s planting on the side.\nThe Planter’s tasting beans too soon,\nAnd weeds are growing ‘round the spoon!”",
+          "imagePlaceholder": "/illustrations/book16/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Ande frowned, “This will not do,\nOur garden needs a job for you,\nAnd you, and you—each part’s a must,\nOr rows will rot and lose our trust.”",
+          "imagePlaceholder": "/illustrations/book16/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Sam read the rules from Grandma’s wall:\n“One plans the seeds to feed us all,\nOne tends them well through sun and rain,\nOne judges when they’re worth the gain.”",
+          "imagePlaceholder": "/illustrations/book16/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "They asked the Planter, “Do your part—\nChoose seeds with care and planting art.\nDon’t water, weed, or judge the taste—\nYour job’s enough, no need to haste.”",
+          "imagePlaceholder": "/illustrations/book16/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "They told the Gardener, “Guard each sprout,\nPull pesky weeds, keep pests all out.\nBut leave the seeds and tasting time—\nThat’s someone else’s job to shine.”",
+          "imagePlaceholder": "/illustrations/book16/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "To the Taster they said, “You decide\nWhen crops are ripe with joy and pride.\nBut don’t plant seeds or water rows—\nYou’ll know it’s ready when it shows.”",
+          "imagePlaceholder": "/illustrations/book16/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "The jobs were split, the work was clear,\nAnd soon green shoots began to cheer.\nThe garden thrived beneath the sun,\nWith each one doing just their one.",
+          "imagePlaceholder": "/illustrations/book16/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Ande smiled, “Now all can see,\nThat sharing roles works splendidly.\nWhen jobs are kept in rightful place,\nThe whole team wins the harvest race.”",
+          "imagePlaceholder": "/illustrations/book16/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "They signed the board with garden chalk,\nA promise made in friendly talk:\n“To guard our jobs, respect the rest,\nThat way our garden grows its best.”",
+          "imagePlaceholder": "/illustrations/book16/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Flora beamed, “It’s just the same\nAs branches in the Founders’ game:\nOne makes the laws, one sees them done,\nOne judges fairly—no one’s ‘the one.’”",
+          "imagePlaceholder": "/illustrations/book16/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "The veggies grew in tidy rows,\nTomatoes red, tall beans in throws.\nThe friends had learned, and so had we—\nThat shared-out work grows liberty.",
+          "imagePlaceholder": "/illustrations/book16/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "In our country, three branches of government each have a job—making laws, carrying them out, and judging disputes. This keeps power balanced and fair, just like the garden jobs.",
+          "imagePlaceholder": "/illustrations/book16/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "At home, try splitting chores into three jobs for a day: one plans, one does, one checks the work. Switch each day and see how it changes teamwork.",
+          "imagePlaceholder": "/illustrations/book16/page15.png"
+        }
+      ],
+      "activity": "Draw your own garden. Label three rows for three jobs and explain how each helps the garden grow.",
+      "epilogue": "This story introduces the Separation of Powers, the 16th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by The 5,000 Year Leap by W. Cleon Skousen, which explains how the Founders built lasting freedom on timeless ideas.\n\n“Ambition must be made to counteract ambition.” — James Madison, Federalist No. 51\n\nSeparation of powers teaches that freedom is protected when no one person makes all the rules, enforces them, and decides disputes. Just as Ande and Sam’s garden flourished when roles were shared, our communities thrive when jobs are divided fairly and kept in balance.\n\nAs you reflect with your child, consider questions such as:\n\nWhy is it important for different people to share different jobs?\n\nWhat problems happen if one person tries to do everything?\n\nHow can families or classrooms use shared roles to be fair?\n\nBy connecting fairness in the garden to fairness in government, children can see that liberty grows strong when responsibilities are shared and balanced."
+    },
+    {
+      "bookNumber": 17,
+      "title": "Ande and the Garden Balance",
+      "preface": "Welcome to the seventeenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called Checks and Balances.\nChecks and Balances means that no one should have too much power. Just like in a garden, where plants, sun, and water must balance each other, freedom thrives when everyone works together and keeps things fair.\nLong ago, wise leaders taught that freedom is safest when powers are shared and each part of government can guide and limit the others. Without this balance, freedom begins to fade. But when people share responsibility, listen to different voices, and work together, freedom blossoms—just like flowers in a healthy garden.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how balance keeps their garden—and their world—growing strong!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Morning sun rose warm and bright,\nSam sketched a fountain reaching height.\n“It’ll be the tallest one we’ve grown,\na sparkling crown for our garden home.”",
+          "imagePlaceholder": "/illustrations/book17/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Flora glided, wings aglow,\n“Tall is nice, but plants won’t grow.\nToo much shade will block their light,\nseedlings need the sun’s warm sight.”",
+          "imagePlaceholder": "/illustrations/book17/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Terra came with steady tread,\n“Water might splash too far,” he said.\n“Soil could wash and roots might drown,\nlet’s keep the fountain lower down.”",
+          "imagePlaceholder": "/illustrations/book17/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Sam frowned hard but didn’t pout,\n“There must be ways to work this out.”\nAnde grinned, “We’ll make a plan,\nand change it where and how we can.”",
+          "imagePlaceholder": "/illustrations/book17/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Around the table friends drew near,\nsharing dreams for all to hear.\nSome things stayed and some would bend,\ntogether they would shape the end.",
+          "imagePlaceholder": "/illustrations/book17/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Flora pointed, “Near the pond,\nlilies there will grow more fond.\nSplashes feed them every day,\nwatering in a gentle way.”",
+          "imagePlaceholder": "/illustrations/book17/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Terra smiled, “Let’s build it low,\nso water stays where it should go.”\nSam lit up, “Yes, that’s the key,\na grand design for all to see!”",
+          "imagePlaceholder": "/illustrations/book17/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "They measured twice and marked the ground,\nchecking each idea they found.\nAnde called, “We’ll work as one,\nand stop when all the work is done.”",
+          "imagePlaceholder": "/illustrations/book17/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Scout hopped in with happy cheer,\n“Make a path that’s safe and clear!\nI can bound and skip with glee,\nno splashing water over me.”",
+          "imagePlaceholder": "/illustrations/book17/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The base took shape beneath the sun,\neach friend helping till it was done.\nBalanced stones both firm and round,\nheld steady in the solid ground.",
+          "imagePlaceholder": "/illustrations/book17/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "A gentle splash began to flow,\nfeeding flowers in a row.\nShort enough for light to stream,\nstrong enough to match their dream.",
+          "imagePlaceholder": "/illustrations/book17/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Sam declared, “This turned out best,\nwith all your help, I’m truly blessed.”\nAnde said, “When all take part,\nwe build with hands and also heart.”",
+          "imagePlaceholder": "/illustrations/book17/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Nanny came with lemonade,\nsmiling at the work they’d made.\n“When each friend has a voice to share,\nthe garden grows with greatest care.”",
+          "imagePlaceholder": "/illustrations/book17/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Sunset wrapped the sky in gold,\naround the fountain, stories told.\nIts gentle song would now remind,\nbalance makes the garden kind.",
+          "imagePlaceholder": "/illustrations/book17/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Ande wrote in fading light,\n“Balance keeps the garden right.”\nThe fountain whispered soft and low,\nsharing dreams that friends help grow.",
+          "imagePlaceholder": "/illustrations/book17/page15.png"
+        }
+      ],
+      "activity": "Think of a big idea together.\nAsk each person to share one good thing and one possible problem with it.\nAdjust your plan so everyone’s voice is included.\nSee how balancing ideas makes your plan stronger.",
+      "epilogue": "This story introduces Checks and Balances, the 17th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap, a book by W. Cleon Skousen, which highlights the wisdom of the Founders in creating lasting freedom.\n\n“Ambition must be made to counteract ambition.” — James Madison, Federalist No. 51\n\nChecks and balances protect freedom by making sure no one person or group has all the power. Just as the sun, soil, and rain must balance in a garden, power must be shared in a community or nation.\n\nAs you reflect with your child, consider questions such as:\nHow did Ande and her friends make sure everyone’s ideas were included?\nCan you think of a time when listening to different opinions made your family’s decision better?\nWhat are some ways you can balance ideas at home, school, or in your community?\n\nBy practicing fairness, listening, and cooperation, children can see that balance is not just important in a garden—it is the secret to helping freedom grow and endure in our lives."
+    },
+    {
+      "bookNumber": 18,
+      "title": "Ande and the Garden’s Forgotten Flowers",
+      "preface": "Welcome to the eighteenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called the Importance of a Written Constitution.\nThe Importance of a Written Constitution means that our rights and freedoms should be written down so they can be remembered, protected, and shared fairly across time.\n\nJust like a garden needs signs to remind us how to care for each plant, people need written rules to guide their choices and keep things safe and fair. A written constitution gives everyone the same map, so no one can simply change the rules as they please.\n\nLong ago, wise leaders taught that freedom cannot last unless its protections are clearly written. Without this, freedom fades away. But when people write down and honor their promises, freedom blossoms—just like flowers cared for by a clear list of steps.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how writing down important rules helps their garden—and their world—stay strong and fair!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "The morning sun spread golden light,\nThe garden shimmered, fresh and bright.\nYet Ande saw, with puzzled stare,\nSome flowers drooped in disrepair.",
+          "imagePlaceholder": "/illustrations/book18/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Scout hopped up, his whiskers twitching,\n“Those blooms,” he said, “are Memory Stitching!\nThey hold the tales of gardens past,\nBut fade away if care won’t last.”",
+          "imagePlaceholder": "/illustrations/book18/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“What’s Memory Stitching?” Sam leaned near,\n“It’s in the Care List — clear and dear.\nWithout those rules, the blooms grow weak,\nAnd soon their petals lose their cheek.”",
+          "imagePlaceholder": "/illustrations/book18/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Flora fluttered low and sighed,\n“I’ve guessed their needs, at least I’ve tried.\nBut guessing leaves too much to chance,\nTheir colors fade, their stems don’t dance.”",
+          "imagePlaceholder": "/illustrations/book18/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Ande tapped her chin in thought,\n“A written list is what we’ve not.\nLet’s make it fresh, and post it clear,\nSo every friend can help them here.”",
+          "imagePlaceholder": "/illustrations/book18/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Sam grabbed a stool to sit in place,\nScout fetched ink with quickened pace.\nTerra recalled each tried-and-true way,\nAnd Flora hummed a bloom-bright day.",
+          "imagePlaceholder": "/illustrations/book18/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Buzz buzzed in with paper rolls,\n“Let’s write our care in steady scrolls!\nWe’ll note the songs, the sun, the rain,\nSo blooms will never droop again.”",
+          "imagePlaceholder": "/illustrations/book18/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "They worked ‘til noon, their words precise,\nEach rule written not once, but twice.\n“Water each dawn, but not too deep,\nAnd sing at dusk to help them sleep.”",
+          "imagePlaceholder": "/illustrations/book18/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Buzz zipped off with scrolls in tow,\nTo hang where all the blooms could grow.\nOn every path, the signs stood tall,\nWith Care Lists there to guide them all.",
+          "imagePlaceholder": "/illustrations/book18/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Within a week, the change was clear,\nThe blooms stood straight from root to ear.\nTheir petals shone in pink and gold,\nJust as the Care List once foretold.",
+          "imagePlaceholder": "/illustrations/book18/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "“Written rules keep things fair,” said Terra,\n“They steer us right, away from error.\nNo guessing games, no half-forgot,\nJust steady care in every spot.”",
+          "imagePlaceholder": "/illustrations/book18/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Sam declared with a joyful tone,\n“It’s like a Constitution all our own!\nA guide we trust, a promise true,\nTo guard the blooms for me and you.”",
+          "imagePlaceholder": "/illustrations/book18/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Ande smiled and closed her book,\nThe garden fresh in every nook.\n“We’ll keep these words where all can see,\nA pledge of care for you and me.”",
+          "imagePlaceholder": "/illustrations/book18/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The Memory Stitching blooms now thrive,\nTheir stories kept, their colors alive.\nFor rules once lost, now safely stay,\nIn writing, for another day.",
+          "imagePlaceholder": "/illustrations/book18/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "No petal fades, no root turns dry,\nTheir Care List stands for all to try.\nAnde knows now, and so do you,\nWritten rules keep gardens true.",
+          "imagePlaceholder": "/illustrations/book18/page15.png"
+        }
+      ],
+      "activity": "Make your own “Family Constitution.”\nWrite down 3–5 important rules everyone in your family agrees to follow.\nPost it in your home.\nCheck it each week to see how well you’re keeping it.",
+      "epilogue": "This story introduces the Importance of a Written Constitution, the 18th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which highlights the importance of clearly written laws and boundaries in protecting freedom.\n\n“A constitution is not the act of a government, but of a people constituting a government.” — Thomas Paine\n\nWritten rules—like a constitution—teach us how to live together fairly and protect the rights of all. Just as a written Care List keeps Grandma’s garden healthy, a written constitution keeps a community strong by making sure promises are remembered and followed.\n\nAs you reflect with your child, consider questions such as:\n• Why did Ande and Sam’s garden need written instructions?\n• What might happen if rules are only remembered and not written?\n• Can you think of a family rule you’d like to see written down?\n\nBy connecting the idea of writing rules to everyday life, children can see that freedom and fairness last only when principles are written and respected. Writing things down is how liberty takes root and grows."
+    },
+    {
+      "bookNumber": 19,
+      "title": "Ande and the Garden Council",
+      "preface": "Welcome to the twenty-first book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called Strong Local Self-Government.\nStrong Local Self-Government means that the people closest to a problem often know best how to solve it. When neighbors and communities work together, they can make choices that fit their unique needs.\nJust like a garden patch grows best when cared for by the hands that tend it every day, communities flourish when decisions are made by the people who live there.\nLong ago, wise leaders taught that freedom weakens when power becomes too distant. But when local voices lead and families take responsibility, freedom blossoms—just like flowers watered by caring gardeners.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how working together in their own community makes their garden—and their world—shine bright!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "In the heart of the garden, the flowers would say,\n“We need water and sunlight to grow every day!”\nThe berries cried, “Prune us, we’re blocking the track!”\nThe pond whispered softly, “Please clear the weeds back.”\nSam sketched each problem in neat little rows,\n“Let’s find a fair way so the whole garden grows.”",
+          "imagePlaceholder": "/illustrations/book19/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "“We need a big plan,” Buzz said with a grin,\n“But who should decide where we ought to begin?”\nSam tapped the map and said, “Here’s what I think—\nWe should hear from the spots that are closest to the brink.”",
+          "imagePlaceholder": "/illustrations/book19/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Terra said, “Friends, it is easy to see,\nThe ones living closest know best what should be.”\nSam nodded and grinned, “It’s like fixing a shed—\nYou ask the one using it, not someone instead.”",
+          "imagePlaceholder": "/illustrations/book19/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Ande thought, “Back home, in our garden each year,\nWe tend what we know and keep problems near.\nIf strangers decided how flowers should grow,\nThey might make up rules they don’t even know.”\nSam added, “And just like when I fix my kite,\nThe one who’s right here can get it just right.”",
+          "imagePlaceholder": "/illustrations/book19/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "So each little section would pick a wise head,\nTo speak for their needs and share what was said.\nSam built a sign for each group to display,\nWith names of their leaders in bright, friendly way.",
+          "imagePlaceholder": "/illustrations/book19/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Flora flew up where the tall sunflowers swayed,\n“We vote for the water line first to be laid!”\nThe stems gave a rustle, their golden heads bent,\nAgreeing at once that her choice was well spent.\nSam drew a blueprint for fixing the flow,\n“So we’ll all have water to help gardens grow.”",
+          "imagePlaceholder": "/illustrations/book19/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Scout hopped along from the bush full of berries,\n“Our path must be cleared before wintertime hurries.”\nHe lifted his shears with a confident cheer,\n“We’ll trim it all back so the way is kept clear!”\nSam grabbed a basket to carry the waste,\n“And I’ll haul the trimmings to keep up the pace.”",
+          "imagePlaceholder": "/illustrations/book19/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Down by the pond, Terra nodded with grace,\n“We’ll sweep the old lily pads out of this place.\nWhen water is flowing and bright once again,\nWe’ll welcome back fish to their shimmering den.”\nSam fetched a net and gave Terra a wink,\n“Let’s scoop them together before the sun sinks.”",
+          "imagePlaceholder": "/illustrations/book19/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Back at the gate, Buzz was happy to say,\n“We’ll help one another in fair, steady way.\nFirst sunflowers, then berries, the pond will be last,\nWorking together, we’ll finish up fast!”\nSam checked the list he had written so neat,\n“Every job’s ready—this plan’s complete!”",
+          "imagePlaceholder": "/illustrations/book19/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "“This way,” Ande smiled, “every voice can be heard,\nEach job will get done, with no task left blurred.\nWhen all lend a hand, the work flows like a stream,\nAnd the garden can grow like a well-tended dream.”\nSam laughed, “And my checklist shows we’re on track—\nWe’ll finish the work without holding back.”",
+          "imagePlaceholder": "/illustrations/book19/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "They fixed up the water, they pruned berry vines,\nThey cleared the small pond till it sparkled and shined.\nSam carted clippings and stacked them with care,\nWhile friends worked together in fresh garden air.",
+          "imagePlaceholder": "/illustrations/book19/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "At sunset, they gathered and looked all around,\nAt blossoms and berries and green grassy ground.\n“We governed ourselves,” said Terra with glee,\n“And our garden’s the best it could possibly be!”\nSam nodded, “It worked—local voices were heard.\nThat’s the best kind of plan for the garden and herd.”",
+          "imagePlaceholder": "/illustrations/book19/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Local decisions keep troubles away,\nWhen neighbors and friends have the most they can say.\nFrom garden to town, it works just the same—\nStrong local voices keep freedom aflame.\n“And teamwork,” said Sam, “makes the work light and fast—\nSo our garden will bloom and the joy will last.”",
+          "imagePlaceholder": "/illustrations/book19/page13.png"
+        }
+      ],
+      "activity": "Discussion Prompt: Why might local government serve people better than distant government?\nActivity: Pick a small local problem. Solve it together without waiting for higher authority. Draw a “Family Governance Map” showing who decides what in your home and community.",
+      "epilogue": "This story introduces Strong Local Self-Government, the 21st of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap, a book by W. Cleon Skousen, which highlights the wisdom of keeping power close to the people.\n\n“The way to have good and safe government is not to trust it all to one, but to divide it among the many, distributing to every one exactly the functions he is competent to.” —Thomas Jefferson\n\nLocal self-government teaches us that freedom is best preserved when decisions are made by those who understand local needs and share in the results. Just as gardeners know which plants need water or shade, communities thrive when people nearby solve problems together.\n\nAs you reflect with your child, consider questions such as:\n\n• Why might neighbors or local leaders understand problems better than distant officials?\n• Can you think of a time when your family solved a problem together without waiting for others to decide?\n• What choices can children make at home that help the whole family?\n\nBy connecting everyday decisions to this principle, children see that freedom lasts when we work together locally, caring for our homes, families, and neighborhoods. Strong local voices keep liberty alive."
+    },
+    {
+      "bookNumber": 20,
+      "title": "Ande and the Garden Rules",
+      "preface": "Welcome to the twenty-second book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called the Rule of Law.\nThe Rule of Law means that everyone—leaders and citizens alike—must follow the same set of fair rules. No one is above the law.\nJust like a garden thrives when everyone follows the same care instructions, a community thrives when rules are clear, consistent, and apply to all. Without shared rules, confusion and unfairness grow like weeds. But when rules are respected equally, freedom and fairness bloom for everyone.\nLong ago, wise leaders taught that freedom cannot last if rulers can change the rules whenever they wish. They believed laws, not people’s moods, should guide decisions. That way, all are treated with fairness, from the smallest citizen to the highest leader.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how fair rules keep their garden—and their world—healthy, safe, and free!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "One bright morning, skies so blue,\nAnde skipped in—she had work to do.\nFlora twirled with carefree cheer,\nBuzz said, “The garden rules are clear!”",
+          "imagePlaceholder": "/illustrations/book20/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "“Garden rules? What could they be?”\nBuzz replied, “They help you and me.\nShare the water, keep paths neat,\nTake only what you need to eat.”",
+          "imagePlaceholder": "/illustrations/book20/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Flora giggled, “What’s the fuss?\nA day without rules sounds fine to us!”\nAnde frowned, “Let’s think this through—\nWhat happens if no one follows through?”",
+          "imagePlaceholder": "/illustrations/book20/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Scout hopped high into the bed,\nSquashing blooms beneath his tread.\n“Oops!” he laughed, “They felt so soft.”\nFlora’s glitter drifted aloft.",
+          "imagePlaceholder": "/illustrations/book20/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "By midday, puddles spread and grew,\nSome plants thirsted, others too few.\nPaths were blocked, tools astray—\nThe garden’s joy had slipped away.",
+          "imagePlaceholder": "/illustrations/book20/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Buzz declared with steady tone,\n“Rules protect what we all own.\nLet’s repair and set things right—\nWork together ‘til it’s bright.”",
+          "imagePlaceholder": "/illustrations/book20/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Paths were cleared, the water shared,\nBeds rebuilt with extra care.\nFlora’s sparkles danced in air,\nAnde smiled—fair is fair.",
+          "imagePlaceholder": "/illustrations/book20/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Nanny Dolores came to see,\nThe garden blooming happily.\nShe read each rule out loud and clear—\nThen followed them herself, sincere.\n“Even those who lead,” she said,\n“Must walk the path the rules have led.”",
+          "imagePlaceholder": "/illustrations/book20/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "By dusk, the blooms stood tall again,\nNo one’s mood deciding when.\n“Rules aren’t just to boss or sway—\nThey keep things fair for all each day.”",
+          "imagePlaceholder": "/illustrations/book20/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "That night Ande wrote in her book,\nOf all the lessons she had took:\n“Rule of law is promise true—\nI care for others, they care for you.”",
+          "imagePlaceholder": "/illustrations/book20/page10.png"
+        }
+      ],
+      "activity": "Create your own set of garden rules!\nDraw a picture of your garden, and write 3 rules to help keep it fair and beautiful for everyone.",
+      "epilogue": "This story introduces the Rule of Law, the 22nd of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which explains how clear, consistent laws protect liberty for all.\n\nJohn Adams said it best: “We are a government of laws, and not of men.”\n\nThe Rule of Law reminds us that freedom survives only when rules are fair, public, and apply to everyone equally—leaders and citizens alike. No one is above the law.\n\nAs you reflect with your child, consider questions such as:\n\n• Why is it important that rules apply to everyone, even leaders?\n\n• How does following fair rules help people feel safe and respected?\n\n• Can you think of a time when knowing the rules helped solve a problem fairly?\n\nJust as healthy soil anchors strong roots, the Rule of Law anchors freedom. When families and communities live by fair and equal rules, liberty grows strong for generations to come."
+    },
+    {
+      "bookNumber": 21,
+      "title": "The Garden Schoolhouse",
+      "preface": "Welcome to the twenty-third book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called The Value of Education.\nThe Value of Education means that learning is the key to solving problems, protecting freedom, and helping communities grow strong.\n\nJust like a garden needs water and sunlight to flourish, people need knowledge and understanding to keep their minds sharp and their choices wise.\n\nLong ago, wise leaders taught that liberty cannot last if people remain ignorant. Thomas Jefferson said, “An educated citizenry is a vital requisite for our survival as a free people.” Without knowledge, citizens can be misled or lose their freedoms. But when children and families learn together, asking questions and seeking truth, freedom blossoms—just like flowers thriving under the sun.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how learning turns their garden—and their world—into a brighter, stronger place!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Sunbeams danced on blooms so bright,\nUntil a vine crept in the light.\nIts shadow spread, the flowers drooped,\nAnd over gates the tendrils looped.\n“The plants can’t grow!” cried Buzz in fear,\n“We’ll lose the garden we hold dear!”",
+          "imagePlaceholder": "/illustrations/book21/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Ande called to Sam nearby,\n“Come quick! This vine will make plants die.”\nSam ran in with Scout the Hare,\nAnd Flora fluttered through the air.\nThe friends all frowned at what they saw—\nA creeping vine with hungry maw.",
+          "imagePlaceholder": "/illustrations/book21/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Nanny Dolores came with care,\nHer apron pockets treasures rare.\n“This vine is tricky, yes it’s true,\nBut learning shows us what to do.\nA garden—like a town or school—\nGrows stronger when we know the rules.”",
+          "imagePlaceholder": "/illustrations/book21/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "“First step,” said Nanny, “learn its ways,\nThe habits formed in all its days.\nObserve, record, ask what it needs,\nFor knowledge is the soil for deeds.\nWe’ll make this garden into class,\nAnd watch the vine through hours pass.”",
+          "imagePlaceholder": "/illustrations/book21/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Flora mapped where sunlight lay,\nWith sparkles lighting up the way.\nScout dug down to find the root,\nTo learn what fed the creeping shoot.\nAnde read how vines behave,\nWhile Sam took notes on what they gave.",
+          "imagePlaceholder": "/illustrations/book21/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "They found it drank both sun and dew,\nAnd sipped from flowers’ nectar too.\n“It takes too much,” said Sam, “not fair—\nLike rules that give one group all share.”\n“But if we guide, not chop away,\nIt might still grow the proper way.”",
+          "imagePlaceholder": "/illustrations/book21/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "They built a list of what to try,\nAnd hung it where all could spy.\n“Step one—make space for light to fall.\nStep two—share water with us all.”\n“Step three—record what happens here,\nSo others learn each passing year.”",
+          "imagePlaceholder": "/illustrations/book21/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Buzz spread gold pollen in the air,\nFlora’s glow showed shoots where to share.\nScout built a trellis, tall and wide,\nTo help the vine grow side by side.\nAnde kept notes, her pencil fast,\nFor every fact could make change last.",
+          "imagePlaceholder": "/illustrations/book21/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "They tried their plan for seven days,\nAdjusting vines in gentle ways.\nSome shoots grew straight, some curled anew,\nBut every test taught something true.\n“Like citizens who cast their vote,\nWe learn, adapt, and change the note.”",
+          "imagePlaceholder": "/illustrations/book21/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Sam brought a chart to track the sun,\nAnde made graphs of what they’d done.\nNanny explained, “This skill you gain\nWill help in gardens, towns, or grain—\nFor knowing facts and keeping score\nHelps guide good choices evermore.”",
+          "imagePlaceholder": "/illustrations/book21/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "The vine grew tall, the flowers bloomed,\nThe garden’s space was now well-roomed.\nNo shade to steal the plants’ delight,\nEach leaf and petal faced the light.\nThe friends all cheered, “We’ve done our best—\nAnd learned enough to teach the rest!”",
+          "imagePlaceholder": "/illustrations/book21/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "They hosted class beneath the tree,\nInviting creatures two and three.\nFlora showed maps, Sam read aloud,\nAnde explained to every crowd:\n“When people learn, they see what’s fair—\nAnd build a world where all can share.”",
+          "imagePlaceholder": "/illustrations/book21/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Scout told the tale of digging deep,\nOf secrets roots would always keep.\nBuzz taught the value of the bees,\nAnd how they work with flowers’ needs.\nThe guests went home with seeds to sow,\nAnd lessons they’d help others know.",
+          "imagePlaceholder": "/illustrations/book21/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Nanny gave Ande a book that shone,\n“For every lesson you have grown.\nWhen people learn, they see the way,\nAnd keep their freedoms every day.”\nAnde smiled, “I’ll keep this near—\nLearning’s light will guide each year.”",
+          "imagePlaceholder": "/illustrations/book21/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "The vine now climbed in gentle grace,\nNo more to steal another’s space.\nThe garden thrived, the friends all knew,\nWhat careful learning helps us do.\n“When we know, we grow,” Sam said with cheer,\n“And that keeps freedom strong each year.”",
+          "imagePlaceholder": "/illustrations/book21/page15.png"
+        }
+      ],
+      "activity": "Family Activity — Your Own Schoolhouse\n\nPick something you want to learn about together.\nResearch it in books or online.\nMake a plan to use what you learned.\nShare your results!\n\nDiscussion Prompt: How is solving a problem in the garden like solving a problem in your community?",
+      "epilogue": "This story introduces The Value of Education, the 23rd of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which highlights the wisdom of the Founders in creating a free and lasting republic.\n\nJames Madison reminded us: “Knowledge will forever govern ignorance; and a people who mean to be their own governors must arm themselves with the power which knowledge gives.”\n\nEducation gives children and families the tools to recognize truth, make wise decisions, and protect liberty. Just as healthy roots keep a tree standing tall, knowledge gives strength to our choices and helps freedom endure from one generation to the next.\n\nAs you reflect with your child, consider questions such as:\n\n• How did learning help Ande and Sam solve their garden’s problem?\n\n• Why did the Founders believe education was so important for freedom?\n\n• What is something new your family can learn together this week?\n\nBy making learning a joyful part of everyday life, children see that freedom survives only when people value knowledge. Education is the sunlight of liberty."
+    },
+    {
+      "bookNumber": 22,
+      "title": "Ande and the Garden Wall",
+      "preface": "Welcome to the twenty-fourth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called National Strength.\n\nNational Strength means that a free people must stay strong—not only with walls and shields, but also with courage, unity, and care for one another. A weak garden, or a weak nation, cannot stand tall against storms or troubles.\n\nJust like a garden needs sturdy walls, deep roots, and helping hands to thrive, people need teamwork, patience, and preparation to protect their freedom.\n\nLong ago, wise leaders taught that liberty does not survive unless citizens are strong in body, mind, and spirit. But when families practice courage, cooperation, and responsibility together, freedom flourishes—like flowers rising tall in the summer sun.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how building strength in their garden—and in their hearts—helps them keep freedom safe and strong!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "The garden was peaceful, the air warm and sweet,\nBright blooms in a rainbow lined every seat.\nThen Terra gasped, eyes open wide,\n“A piece of the garden wall’s broken outside!”",
+          "imagePlaceholder": "/illustrations/book22/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "“This wall keeps out critters and shields from the breeze,\nWithout it, we’ll lose all our flowers and peas!”\nAnde frowned and said, “We’ll fix it today,\nWith teamwork and care, we’ll find the way.”",
+          "imagePlaceholder": "/illustrations/book22/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "“Let’s all help!” called out Buzz with cheer,\n“We’ll each take a job to get things clear!”\nScout hopped for stones, Flora fetched vines,\nBuzz zipped for sap from the old garden pines.",
+          "imagePlaceholder": "/illustrations/book22/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Scout stacked them quickly—CRASH, they fell down!\nFlora wove vines till they snapped with a frown.\n“This is harder than I thought it would be,”\nSaid Flora, wings drooping, sadly to me.",
+          "imagePlaceholder": "/illustrations/book22/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "“Strength,” Terra said, “needs patience and thought,\nNot just hard work or stones that are brought.”\nAnde drew plans while the others leaned near,\n“We’ll fix it together—let’s make it clear.”",
+          "imagePlaceholder": "/illustrations/book22/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Scout placed each stone, Flora wove vines just right,\nBuzz sealed the cracks, sticky sap shining bright.\nAnde checked the plan, nodding with pride,\nThey worked as a team, all side by side.",
+          "imagePlaceholder": "/illustrations/book22/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "The sun painted gold on the wall standing tall,\nFlowers bloomed brightly along every wall.\n“We did it!” cried Ande, “Together we’ve grown—\nA strong wall to guard all the seeds we have sown.”",
+          "imagePlaceholder": "/illustrations/book22/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "That night ‘neath a tree, Ande whispered so small,\n“This wall reminds me we all need us all.”\nGrandma agreed with a warm, gentle tone,\n“That’s true for nations as much as our home.”",
+          "imagePlaceholder": "/illustrations/book22/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "By lantern she wrote, “Strength’s not just might,\nIt’s sharing, it’s caring, it’s doing what’s right.”\nShe placed in her box—stone, vine, and sap—\nA memory of teamwork all snug in her lap.",
+          "imagePlaceholder": "/illustrations/book22/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Rain tapped the wall but it held every stone,\nThe garden inside was safe, fully grown.\nThey smiled and knew what their hard work had done—\nProtected the garden for everyone.",
+          "imagePlaceholder": "/illustrations/book22/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "“This is our country,” said Grandma with cheer,\n“Each of us helping will keep it secure.”\nAnde walked proudly with friends by her side,\nKnowing their care was the garden’s true guide.",
+          "imagePlaceholder": "/illustrations/book22/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "“We kept it safe ‘cause we worked as a crew,\nWe planned, we prepared, and we all followed through.”\nThat’s real strength, Ande thought with a grin,\nIt starts with our hearts and it grows from within.",
+          "imagePlaceholder": "/illustrations/book22/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "They promised to watch and repair any crack,\nFor walls, like friendships, need constant care back.\nThe garden would flourish for years yet to be,\nStrong walls, strong hearts, keeping all free.",
+          "imagePlaceholder": "/illustrations/book22/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "So remember the wall when winds start to blow,\nStand side by side, help your strength grow.\nFor gardens and nations both need the same—\nUnity, courage, and love’s steady flame.",
+          "imagePlaceholder": "/illustrations/book22/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Family Compass: Build your own strong wall. Draw each part showing how it works and who helps. How can your family keep your “wall” strong?",
+          "imagePlaceholder": "/illustrations/book22/page15.png"
+        }
+      ],
+      "activity": "Build your own strong wall! Draw a picture of your garden wall and add details that show how each part works together to make it strong. Who will help build it?",
+      "epilogue": "This story introduces National Strength, the 24th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which explains how freedom requires not just hope, but strength to endure.\n\n“To be prepared for war is one of the most effective means of preserving peace.” — George Washington\n\nStrength is more than might. It is courage to do what is right, wisdom to plan ahead, and care to protect what we value. Just as the garden wall protects flowers and vegetables from harm, a strong and united people protect their freedom for generations to come.\n\nAs you reflect with your child, consider questions such as:\n\nHow did Ande and her friends make the wall stronger?\n\nWhat kinds of strength—physical, moral, or teamwork—help families stay safe and free?\n\nCan you think of ways your family builds strength together every day?\n\nBy connecting the idea of strength to daily life, children can see that freedom lasts only when we work together to stay strong in every way. Strength is the guardian of liberty."
+    },
+    {
+      "bookNumber": 23,
+      "title": "Ande and the Promise Pebbles",
+      "preface": "Welcome to the twenty-seventh book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\n\nA principle is a rule that explains how things work. One of those principles is called The Burden of Debt.\n\nThe Burden of Debt means borrowing today takes away freedom tomorrow. It makes us trade our future choices for something we already used.\n\nJust like a garden loses strength if we take too much from the soil, people lose freedom when they spend what they do not have. Wise leaders long ago warned that too much debt can chain both people and nations, leaving fewer choices for tomorrow.\n\nBut when families and communities learn to save, work steadily, and plan with care, freedom grows stronger—like seeds planted in rich soil that provide harvests for years to come.\n\nCome join Ande, Sam, and their Freedom Garden friends as they discover how saving for tomorrow helps their garden—and their lives—stay free and full of promise!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Planting day, the soil was sweet,\nAnde pressed seeds in tidy neat.\nSam stacked sticks with labels true,\nNanny hummed as breezes blew.",
+          "imagePlaceholder": "/illustrations/book23/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "From ferny shade, the Pixies came,\n\"Promise Pebbles\" was their name.\n\"Energy now, just give some back-\nTomorrow's time upon the track.\"",
+          "imagePlaceholder": "/illustrations/book23/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Ande took one, her row was done,\nHer arms felt strong, the work was fun.\nSam grinned wide, \"I'll take two more,\nAnd finish twice what's planned in store!\"",
+          "imagePlaceholder": "/illustrations/book23/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Next day dawned, her body slow,\nThe pebble's tug began to grow.\nSam stood ready, kite in hand,\nBut playtime shifted, not as planned.",
+          "imagePlaceholder": "/illustrations/book23/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "The tug took games, the tug took walks,\nIt even claimed their story talks.\nSam sighed once and lowered the kite,\nTomorrow's debt had claimed her light.",
+          "imagePlaceholder": "/illustrations/book23/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Terra said, \"What you borrow today,\nTakes hours from tomorrow's play.\"\nNanny poured tea and gently spoke,\n\"Bind not tomorrow for today's small stroke.\"",
+          "imagePlaceholder": "/illustrations/book23/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "\"And I took one,\" Ande replied,\nTerra nodded, \"Yet tugs can hide.\"\nNanny tapped her cup and said,\n\"Even small pulls can grow and spread.\"",
+          "imagePlaceholder": "/illustrations/book23/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Flora called, \"Grow berries bright,\nThey give you strength both fair and right.\"\nSam said, \"I'll make a watering line,\nWith strings and washers-works just fine.\"",
+          "imagePlaceholder": "/illustrations/book23/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "They worked, they rested, kept the pace,\nEach berry shone with star-specked grace.\nAnde returned what she had owed,\nThe pebble's pull no longer showed.",
+          "imagePlaceholder": "/illustrations/book23/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The wind blew in a sudden rain,\nBut Ande's time was hers again.\nSam tied planters by the rail,\nNanny's twine would never fail.",
+          "imagePlaceholder": "/illustrations/book23/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "The rain passed by, the leaves stood tall,\nThe pebble quiet, no tug at all.\nSam's kite soared high in the sky,\nAnde read as clouds rolled by.",
+          "imagePlaceholder": "/illustrations/book23/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Terra said, \"Earned strength will stay.\"\nFlora nodded, \"It lights the way.\"\nNanny shared her steady tone,\n\"Save two. Spend one. Borrow none.\"",
+          "imagePlaceholder": "/illustrations/book23/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Ande painted the garden sign,\nSam drew a jar with circles fine.\nThe rule stood clear beneath the sun,\nSave two. Spend one. Borrow none.",
+          "imagePlaceholder": "/illustrations/book23/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Pixies peered from shaded green,\nNods and waves, a gentle scene.\nSam's kite tail danced, Nanny poured tea,\nBerry muffins for all to see.",
+          "imagePlaceholder": "/illustrations/book23/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Night fell soft, the garden deep,\nNanny watched them drift to sleep.\nThe stone dish empty by the door,\nTomorrow's time was theirs once more.",
+          "imagePlaceholder": "/illustrations/book23/page15.png"
+        }
+      ],
+      "activity": "Pebble Jar Plan\n\nMake three circles: Play, Learn, Help.\nEach day, place three tokens. Save two. Spend one.\nKeep your jar light. Borrow none. — Nanny Dolores",
+      "epilogue": "This story introduces The Burden of Debt, the 27th of 28 principles featured in Liberty’s Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which shows how careful planning and thrift protect freedom.\n\n\"Rather go to bed without dinner than to rise in debt.\" — Benjamin Franklin\n\nDebt limits choices, but saving opens doors. Just as Ande and Sam learned, borrowing from tomorrow weakens today's joy. By choosing to live wisely and save for the future, families and nations can protect freedom for generations.\n\nAs you reflect with your child, consider questions such as:\n\nHow did the Promise Pebbles in the story show the hidden cost of borrowing?\n\nCan you think of a time when saving or waiting made something even better?\n\nWhat small habits can families practice—like saving coins in a jar—that help keep tomorrow free?\n\nBy teaching thrift and responsibility, children can see that true freedom is not just having choices today, but keeping those choices alive for tomorrow. Debt is a burden, but wisdom and saving make liberty grow."
+    },
+    {
+      "bookNumber": 24,
+      "title": "Ande and the Marketplace of Harmony",
+      "preface": "Welcome to the twenty-fifth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called Peace, Commerce, and Honest Friendship with All Nations-Entangling Alliances with None.\nThis principle means we can be friends and trade fairly with everyone, but we should avoid getting stuck in quarrels that don't belong to us. Just as a garden thrives when plants grow side by side without tangling each other's roots, people thrive when they build honest friendships without becoming trapped in others' conflicts.\nLong ago, wise leaders like George Washington and Thomas Jefferson taught that lasting peace comes through fairness, trade, and goodwill-not through endless alliances or wars. When people practice honesty and kindness with all, they grow stronger and more free, just like flowers that share the sunshine together.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how harmony and fair exchange make their garden-and their world-peaceful and bright!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "One sunny morn, with the garden awake,\nAnde heard laughter by the lily-lined lake.\nSam held his basket, \"What could it be?\"\nThey followed the sounds past the tall blossom tree.",
+          "imagePlaceholder": "/illustrations/book24/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "It's the Harmony Market! called Flora with cheer.\nWhere friends come to trade, all creatures appear.\nSam's eyes grew wide, \"Let's see what they've made-\nbut first, tell me, Ande, what we've brought to trade?\"",
+          "imagePlaceholder": "/illustrations/book24/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Terra explained, \"It's a wonderful plan-\nWe share what we can, each giving a hand.\nBees bring their honey, rabbits bring greens,\nGarlands from flowers, the prettiest seen.\"",
+          "imagePlaceholder": "/illustrations/book24/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Ande admired a honey jar's gleam.\nBuzz hovered closer, sweet as a dream.\n\"To trade for this, what do you show?\"\nSam checked their basket-nothing to go.",
+          "imagePlaceholder": "/illustrations/book24/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "I'll draw the garden, its flowers, its streams!\nAnde said brightly, eyes full of dreams.\nA sunflower came and happily beamed,\nTrading the jar for the sketch it had dreamed.",
+          "imagePlaceholder": "/illustrations/book24/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Soon more arrived with treasures to share-\nBerries and garlands and stones bright and rare.\nSam helped deliver each trade with care,\nAnd laughter and joy filled the warm garden air.",
+          "imagePlaceholder": "/illustrations/book24/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "But then from the shade came a quarrelsome sound,\nA bee and a rabbit both stood their ground.\nThat's my spot! No, mine! they cried with a frown,\nTheir spilled goods scattered all over the ground.",
+          "imagePlaceholder": "/illustrations/book24/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "What happens to trade if we fuss and fight?\nAnde asked softly, \"Is that really right?\"\nSam said, \"Let's share-there's room for two.\nWe'll find a way that works for you.\"",
+          "imagePlaceholder": "/illustrations/book24/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Terra agreed with a slow, wise nod,\nPeace is the path all traders have trod.\nWork side by side, the market will grow,\nWhen kindness and fairness are what we show.",
+          "imagePlaceholder": "/illustrations/book24/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "So they built a stall for all to see,\n\"Bee and Rabbit's Treats\"-a sign swung free.\nHoney and carrots now shared with delight,\nThe market buzzed on from morning to night.",
+          "imagePlaceholder": "/illustrations/book24/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "That evening glowed with lantern light's hue,\nTrades still humming as the stars peeked through.\nPeace and trade make the garden strong,\nAnde told Sam as they strolled along.",
+          "imagePlaceholder": "/illustrations/book24/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Back home they found Nanny among the flowers,\nHumming a tune in the twilight hours.\nWe worked together, all day long-\nWhen friends unite, the bonds grow strong.",
+          "imagePlaceholder": "/illustrations/book24/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "That's the heart of harmony, Nanny said.\nAnde wrote her thoughts before going to bed:\nFriendship with all, taking sides with none-\nThat's how true peace is always won.",
+          "imagePlaceholder": "/illustrations/book24/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The moon climbed high, the stalls closed tight,\nThe garden slept in the silver night.\nThe Harmony Market would come again,\nWhen peace and trade walk hand in hand.",
+          "imagePlaceholder": "/illustrations/book24/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "On their shelf they placed each treasure fair,\nA garland, a stone, the honey jar there.\nThe market gave friends, Ande whispered low,\nAnd that's the best trade we'll ever know.",
+          "imagePlaceholder": "/illustrations/book24/page15.png"
+        }
+      ],
+      "activity": "Create your own marketplace! What items would you bring to trade? Draw or list your items, and decide how you'd work with others to make your market peaceful and fun.",
+      "epilogue": "This story introduces Peace, Commerce, and Honest Friendship with All Nations-Entangling Alliances with None, the 25th of 28 principles featured in Liberty's Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which highlights the wisdom of the Founders in shaping a free nation.\n\"Peace, commerce, and honest friendship with all nations-entangling alliances with none.\" -Thomas Jefferson\nPeaceful trade and honest friendship create strength without conflict. Just as plants grow best when their roots are free yet share the same soil, people flourish when they respect one another's space while building trust and cooperation.\nAs you reflect with your child, consider questions such as:\n• How did Ande and Sam learn to be friends with everyone without taking sides?\n• Why does peace help communities grow stronger than quarrels?\n• What does it mean to share fairly while still keeping your independence?\nBy practicing honesty, fairness, and friendly cooperation, children learn that lasting freedom comes not from conflict, but from peace and respect."
+    },
+    {
+      "bookNumber": 25,
+      "title": "Ande, Sam, and the Circle of Seeds",
+      "preface": "Welcome to the twenty-sixth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called The Family as the Core Unit of Society.\nThe Family as the Core Unit of Society means that families are the foundation of strong communities and nations. Families teach values, foster responsibility, and help each person grow.\nJust like a garden needs roots, soil, and sunlight to thrive, a family needs love, care, and teamwork to stay strong. Families give us the lessons of kindness, patience, and responsibility that help freedom grow.\nLong ago, wise leaders taught that the strength of a nation depends on the strength of its families. When families are healthy, society blossoms. But when families weaken, freedom begins to fade.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how the seeds of family love grow into strength for the whole community!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "One bright morning, near the trees,\nSam saw something in the leaves.\nAnde bent and picked it out-\na pouch of seeds, without a doubt!",
+          "imagePlaceholder": "/illustrations/book25/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Seeds! cried Sam, But what kind grow?\nTo the herb bed, they did go.\nGrandma smiled, They're Family Seeds, you see.\nPlant them with love, and strong they'll be.",
+          "imagePlaceholder": "/illustrations/book25/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Where should we plant? asked Ande fast.\nGrandma pointed, That patch will last.\nSeeds need sunlight, water, and care-\nteamwork too, so love can share.",
+          "imagePlaceholder": "/illustrations/book25/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "Let's call our friends, said Sam with cheer.\nFlora fluttered, I'm right here!\nScout and Buzz and Terra came-\neach with tools to join the game.",
+          "imagePlaceholder": "/illustrations/book25/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "They dug the soil, both deep and wide,\nplanted seeds all side by side.\nSam pressed the dirt with steady hands,\nwhile Ande dreamed of flower bands.",
+          "imagePlaceholder": "/illustrations/book25/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Days went by, no sprouts in sight.\nSam frowned, Did we plant them right?\nTerra said, It takes some time-\njust like families, they slowly climb.",
+          "imagePlaceholder": "/illustrations/book25/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Each day they worked, from sun to shade,\nweeding rows that Scout had made.\nFlora chased the pests away,\nBuzz brought nectar every day.",
+          "imagePlaceholder": "/illustrations/book25/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Ande poured with watering can,\nFamilies grow with a good plan.\nSam laughed, And games are good too-\nfun helps families blossom through!",
+          "imagePlaceholder": "/illustrations/book25/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Then one morning-what a sight!\nBlooms appeared in morning light.\nA circle formed, each bloom unique,\nvines connecting, strong yet meek.",
+          "imagePlaceholder": "/illustrations/book25/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The Circle of Seeds! Grandma said.\nLike a family, in green and red-\neach one different, yet all belong,\ntied together, growing strong.",
+          "imagePlaceholder": "/illustrations/book25/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "They saw the flowers help the land,\nholding soil with vine and strand.\nBlossoms fed the bees that came,\nleaves gave shade to sprouts by name.",
+          "imagePlaceholder": "/illustrations/book25/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "That night they sat beneath the skies,\nstars reflecting in their eyes.\nLove and care make families grow,\nsaid Ande soft, in evening's glow.",
+          "imagePlaceholder": "/illustrations/book25/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "And when they do, said Sam with glee,\nthey make the world as good as can be.\nLater, Ande wrote it down-\nin her journal, safe and sound.",
+          "imagePlaceholder": "/illustrations/book25/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "The Circle shone both far and near,\nspreading joy throughout the year.\nOur garden's strong, said Sam with pride.\nBecause we cared, and worked side-by-side.",
+          "imagePlaceholder": "/illustrations/book25/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "Families thrive when each will share-\nlove and time to show they care.\nLike a garden, they will bloom,\nfilling life with light and room.",
+          "imagePlaceholder": "/illustrations/book25/page15.png"
+        }
+      ],
+      "activity": "Plant your own Circle of Seeds! Draw your family or community as a garden. What kind of flowers would everyone be, and how would they help each other grow?",
+      "epilogue": "This story introduces The Family as the Core Unit of Society, the 26th of 28 principles featured in Liberty's Principles Pals. These principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which highlights how strong families create strong nations.\n\"The foundation of national morality must be laid in private families.\" - John Adams\nFamilies are the first schools of love, responsibility, and virtue. Just as roots anchor a tree, families anchor children with values that help them grow strong and free.\nAs you reflect with your child, consider questions such as:\n• How did Ande and Sam learn that families grow stronger when everyone helps?\n• What are some ways your family shows love and teamwork?\n• How can families, like gardens, spread goodness to their whole community?\nBy seeing families as the building blocks of freedom, children learn that caring for and respecting family life helps everyone live in a society where liberty can blossom."
+    },
+    {
+      "bookNumber": 26,
+      "title": "Ande and the Path of Possibilities",
+      "preface": "Welcome to the twenty-eighth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called Manifest Destiny.\nManifest Destiny means that people, when guided by hope and purpose, can build new opportunities that inspire others and create brighter communities.\nJust like a garden stretches out when seeds are planted in new soil, freedom expands when families work with courage, kindness, and vision.\nLong ago, wise leaders believed that America had a special role in showing liberty to the world-not by force, but by example, through building, sharing, and growing strong together.\nCome join Ande, Sam, and their Freedom Garden friends as they step onto the Path of Possibilities and discover how working with purpose and hope can inspire others to do the same!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "One bright morning, the garden shone,\nAnde and Sam were not alone.\nA brand-new path came into view,\nWhere will it lead? Let's see it through!",
+          "imagePlaceholder": "/illustrations/book26/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Grandma Dolores raised her hand,\nThis path can shape what you will plan.\nIt's called the Path of Possibility,\nWhere hope and work bring what will be.",
+          "imagePlaceholder": "/illustrations/book26/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "What can we build? asked Sam with cheer.\nAnything good, said Grandma near.\nBring hope, bring kindness, courage strong.\nWith these, your dreams will grow lifelong.",
+          "imagePlaceholder": "/illustrations/book26/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "They packed up seeds and tools with care,\nThe glowing path led everywhere.\nFlora, Scout, Buzz, Terra too-\nSet off with Ande, Sam in view.",
+          "imagePlaceholder": "/illustrations/book26/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "They found a field both wide and bare.\nThis land needs life to flourish there.\nWe'll plant, we'll build, and work all day,\nTo make it bloom in every way.",
+          "imagePlaceholder": "/illustrations/book26/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Flora cast seeds that caught the breeze,\nScout dug the rows with skill and ease.\nBuzz marked the spots, Terra made walls,\nSam poured fresh water-hope recalls.",
+          "imagePlaceholder": "/illustrations/book26/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "By evening light, the soil looked bright,\nGreen shoots peeked up, a joyful sight.\nAnde wrote notes of what they'd done,\nSam laughed, Our work has just begun!",
+          "imagePlaceholder": "/illustrations/book26/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "Days passed and colors filled the air,\nThe garden grew with tender care.\nThey watched with pride, their field turned strong,\nThey sang together hope's sweet song.",
+          "imagePlaceholder": "/illustrations/book26/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "But storm winds came, the sky turned gray,\nThe plants bent low, the stones gave way.\nWeeds crept inside, the rows looked wrong,\nOh no, cried Sam, It was so strong!",
+          "imagePlaceholder": "/illustrations/book26/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "Next morning's sun revealed the test-\nThe flowers drooped, they'd lost their zest.\nAnde looked sad, her notebook shook,\nSam sighed, Let's fix it-come and look.",
+          "imagePlaceholder": "/illustrations/book26/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "Terra spoke slow, Let's plan ahead.\nWith deeper roots, no plants will dread.\nBuzz added, Charts will keep us true.\nSam said, Windbreaks will help us too.",
+          "imagePlaceholder": "/illustrations/book26/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "So Flora chose seeds tough and bright,\nScout dug neat rows with all his might.\nBuzz tracked the sun, marked where it shone,\nSam built new walls of stone on stone.",
+          "imagePlaceholder": "/illustrations/book26/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "The garden thrived, the blooms stood tall,\nThe veggies grew, no weeds at all.\nSam grinned, It's strong, it will not fall!\nAnde wrote, Hope can guide us all.",
+          "imagePlaceholder": "/illustrations/book26/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Grandma arrived, her eyes so kind,\nYou've built with purpose, heart, and mind.\nThis field will shine for all to see,\nAn inspiration-just like thee.",
+          "imagePlaceholder": "/illustrations/book26/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "That night they wrote by lantern light,\nWork with hope makes futures bright.\nTogether we can build things strong,\nAnd guide the world to sing along.",
+          "imagePlaceholder": "/illustrations/book26/page15.png"
+        }
+      ],
+      "activity": "Draw Your Own Path of Possibilities! What would you build to inspire others? Use hope, work, and care to make something strong for your garden or community.",
+      "epilogue": "This story introduces Manifest Destiny, the 28th of 28 principles featured in Liberty's Principles Pals.\nThese principles are inspired by themes from The 5,000 Year Leap by W. Cleon Skousen, which explains how America's Founders connected freedom with vision, responsibility, and opportunity.\n\"When a people work with purpose, guided by hope and goodness, they create a legacy that inspires generations.\" - Adapted from Founding Era ideals\nManifest Destiny reminds us that building with hope and purpose can create strong families, thriving communities, and a brighter nation. Just as the garden grew strong when Ande, Sam, and their friends worked together, we too can build a future worth sharing.\nReflection Questions:\n• How did Ande and Sam show hope and teamwork on the Path of Possibilities?\n• What happens when families or communities rebuild after a storm or challenge?\n• What can you build today-in kindness, learning, or courage-that might inspire someone else tomorrow?\nBy connecting our choices to hope and purpose, children can see that freedom blossoms when each generation works to build something new and good. Manifest Destiny is the final reminder: liberty grows when we live to inspire others."
+    },
+    {
+      "bookNumber": 27,
+      "title": "Ande and the Garden’s Forgotten Flowers",
+      "preface": "Welcome to the nineteenth book of the Freedom Garden series!\nThis series shares 28 adventures. Each adventure teaches a principle that helps freedom grow.\nA principle is a rule that explains how things work. One of those principles is called Limited and Carefully Defined Powers.\nThis principle means that government should only use powers that are clearly written down, while all other powers stay with the people.\nJust like a garden grows best when each helper knows their part, freedom grows when rules are clear and responsibilities are respected.\nLong ago, wise leaders taught that power spreads like water-it seeps into every crack unless carefully guided. That's why they made sure to set boundaries, so liberty would not be drowned by too much control.\nCome join Ande, Sam, and their Freedom Garden friends as they discover how clear rules help everyone bloom in their own bright way!",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "The garden was glowing in bright morning light,\nBut something seemed wrong, though it looked mostly right.\nWhy are those flowers all drooping that way?\nAnde asked softly, Did someone forget them today?",
+          "imagePlaceholder": "/illustrations/book27/page1.png"
+        },
+        {
+          "pageNumber": 2,
+          "text": "Those are Forgotten Flowers, Terra replied,\nThey've heard so many voices, they can't decide.\nToo many creatures give orders each hour,\nAnd now they're unsure of their own growing power.",
+          "imagePlaceholder": "/illustrations/book27/page2.png"
+        },
+        {
+          "pageNumber": 3,
+          "text": "Who's in charge here? asked Ande with care,\nBuzz rolled out a scroll that trailed through the air.\nIt's the Garden Rules List, he said with a hum,\nBut it's so very long, I forget where it's from!",
+          "imagePlaceholder": "/illustrations/book27/page3.png"
+        },
+        {
+          "pageNumber": 4,
+          "text": "The bees tell them when, and the butterflies how,\nThe rabbits say where, and they must listen now.\nNo one has asked what the flowers might need,\nThey're tangled in orders they never agreed.",
+          "imagePlaceholder": "/illustrations/book27/page4.png"
+        },
+        {
+          "pageNumber": 5,
+          "text": "Sam crossed his arms, That's too many chiefs,\nNo wonder they're hanging their petals like leafs.\nToo many bosses can muddle the way,\nWe need one clear plan we can all obey.",
+          "imagePlaceholder": "/illustrations/book27/page5.png"
+        },
+        {
+          "pageNumber": 6,
+          "text": "Flora swooped down in a glittering twirl,\nIn a healthy garden, each helper and girl\nKnows just what to do and then steps aside,\nSo flowers can grow with their own kind of pride.",
+          "imagePlaceholder": "/illustrations/book27/page6.png"
+        },
+        {
+          "pageNumber": 7,
+          "text": "Ande pulled out her journal, We'll write this all down.\nI'll draw the borders! said Sam with a frown.\nI'll sketch where each helper should work and should stay,\nAnd label the paths so no one's in the way.",
+          "imagePlaceholder": "/illustrations/book27/page7.png"
+        },
+        {
+          "pageNumber": 8,
+          "text": "They called all the friends-the bees and the rest,\nAnde read from her journal: Here's what works best.\nBees buzz and bring pollen, the butterflies glide,\nThe rabbits keep roots safe, and flowers decide.",
+          "imagePlaceholder": "/illustrations/book27/page8.png"
+        },
+        {
+          "pageNumber": 9,
+          "text": "Sam held up his map with neat colored lines,\nFollow these paths and we'll all do just fine.\nThe bees have their zone, the butterflies too,\nThe flowers can stretch where the sunlight comes through.",
+          "imagePlaceholder": "/illustrations/book27/page9.png"
+        },
+        {
+          "pageNumber": 10,
+          "text": "The flowers perked up as the list became clear,\nThey swayed with relief now that freedom was near.\nNo more confusion, no orders to chase,\nEach one could grow at its own gentle pace.",
+          "imagePlaceholder": "/illustrations/book27/page10.png"
+        },
+        {
+          "pageNumber": 11,
+          "text": "The blooms stood up taller, their colors shone bright,\nPetals spread wide to drink in the light.\nFreed from the tangle, they reached for the sky,\nAnd bees hummed approval as they drifted by.",
+          "imagePlaceholder": "/illustrations/book27/page11.png"
+        },
+        {
+          "pageNumber": 12,
+          "text": "Clear rules and freedom, said Sam with delight,\nAre just what they needed to grow in their might.\nToo much control turns the garden all gray,\nBut the right kind of help lets joy lead the way.",
+          "imagePlaceholder": "/illustrations/book27/page12.png"
+        },
+        {
+          "pageNumber": 13,
+          "text": "Yes, Terra nodded, Control has a cost,\nAnd too many voices can leave choices lost.\nWhen roots have their space and the leaves have the sun,\nThe flowers can grow till the day's work is done.",
+          "imagePlaceholder": "/illustrations/book27/page13.png"
+        },
+        {
+          "pageNumber": 14,
+          "text": "Ande closed her journal, It's just like our clan-\nWe've rules in our home, but as much freedom as we can.\nIt's how we all learn to be thoughtful and strong,\nWhile still knowing where the rules belong.",
+          "imagePlaceholder": "/illustrations/book27/page14.png"
+        },
+        {
+          "pageNumber": 15,
+          "text": "The garden now glowed in the soft evening hue,\nEach bloom stood proud in its own shape and view.\nThe Forgotten Flowers weren't wilted or small-\nThey were free to be fully themselves, after all.",
+          "imagePlaceholder": "/illustrations/book27/page15.png"
+        }
+      ],
+      "activity": "Family Compass Activity - Make two lists: Powers We Give to Parents and Powers Kids Keep for Themselves. Discuss why some powers should be limited and others retained. Create a Family Power Charter and revisit it as children earn more freedoms.",
+      "epilogue": "This story introduces Limited and Carefully Defined Powers, the 19th of 28 principles featured in Liberty's Principles Pals. These principles are inspired by themes from The 5,000 Year Leap, a book by W. Cleon Skousen, which explains how liberty is protected when power is clearly limited.\n\"The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite.\" - James Madison, Federalist No. 45\nJust as flowers thrive when helpers keep to their roles, people thrive when powers are limited and freedom is preserved. Clear rules keep balance, protect liberty, and help communities grow strong.\nAs you reflect with your child, consider questions such as:\n• Why is it important that government powers are written down and limited?\n• How did Ande and Sam help the Forgotten Flowers by setting clear rules?\n• What rules in your family give structure while still leaving room for freedom?\nBy connecting boundaries and freedom, children can see that liberty survives when powers are carefully defined-and when people are trusted to grow in their own light."
+    }
+  ]
+}

@@ -14,6 +14,20 @@ export default function HomePage() {
           <p className="text-xl text-gray-700 mb-8 text-center max-w-3xl mx-auto">
             A magical children&apos;s book series teaching the 28 founding principles of American freedom through garden adventures. Perfect for ages 2-10, homeschool families, and civic education.
           </p>
+          <div className="flex justify-center gap-4 flex-wrap">
+            <a
+              href="/library"
+              className="inline-block px-8 py-4 bg-primary text-white font-bold text-lg rounded-lg shadow-lg hover:bg-primary/90 transition-all hover:scale-105"
+            >
+              📚 Explore the Library
+            </a>
+            <a
+              href="#principles"
+              className="inline-block px-8 py-4 bg-accent text-white font-bold text-lg rounded-lg shadow-lg hover:bg-accent/90 transition-all hover:scale-105"
+            >
+              🌟 View 28 Principles
+            </a>
+          </div>
         </div>
       </section>
 
@@ -80,7 +94,7 @@ export default function HomePage() {
       </section>
 
       {/* ALL 28 PRINCIPLES - CRITICAL FOR SEO */}
-      <section className="py-16 px-4 bg-secondary/30">
+      <section id="principles" className="py-16 px-4 bg-secondary/30">
         <div className="container mx-auto max-w-5xl">
           <h2 className="text-4xl font-bold text-primary mb-6 text-center">
             The 28 Founding Principles of Freedom
